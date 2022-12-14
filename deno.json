@@ -1,0 +1,8 @@
+{
+  "tasks": {
+    "start": "deno run --allow-net --allow-read src/app.ts",
+    "dev": "deno run --watch --allow-net --allow-read src/app.ts",
+    "fmt": "deno fmt"
+  },
+  "importMap": "./import_map.json"
+}
