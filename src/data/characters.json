@@ -1,0 +1,18 @@
+{
+  "characters": [
+    {
+      "name": "Tulip Olsen",
+      "species": "human",
+      "location": "Minnesota",
+      "gender": "female",
+      "alive": true
+    },
+    {
+      "name": "One-One",
+      "species": "robot",
+      "location": "The Infinity Train",
+      "gender": "no-applicable",
+      "alive": true
+    }
+  ]
+}

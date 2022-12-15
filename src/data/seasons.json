@@ -1,0 +1,21 @@
+{
+  "seasons": [
+    {
+      "name": "The Perennial Child",
+      "season_number": 1,
+      "year": 2019,
+      "episodes": [
+        "The Grid Car",
+        "The Beach Car",
+        "The Corgi Car",
+        "The Crystal Car",
+        "The Cat's Car",
+        "The Unfinished Car",
+        "The Chrome Car",
+        "The Ball Pit Car",
+        "The Past Car",
+        "The Engine"
+      ]
+    }
+  ]
+}
