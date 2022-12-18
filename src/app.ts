@@ -1,13 +1,18 @@
-import { Application, Router } from "oak";
+import { Application, Router, Context } from "oak";
 
 import { apiRouter } from '$/apiRouter.ts'
 
 const app = new Application();
-const port = 3000;
+const port = 8000;
+
+app.use((ctx, next) => {
+  ctx.response.headers.set('Access-Control-Allow-Origin', '*')
+  return next()
+})
 
 const rootRouter = new Router();
 
-rootRouter.get("/", (ctx) => {
+rootRouter.get("/", (ctx: Context) => {
   ctx.response.body = "Hola Infinity Train 🚂 🐢";
 })
 
