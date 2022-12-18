@@ -1,4 +1,4 @@
-import { Application, Router, Context } from "oak";
+import { Application, Router, Context, send } from "oak";
 
 import { apiRouter } from '$/apiRouter.ts'
 
@@ -12,9 +12,22 @@ app.use((ctx, next) => {
 
 const rootRouter = new Router();
 
-rootRouter.get("/", (ctx: Context) => {
+rootRouter.get("/api/test", (ctx: Context) => {
   ctx.response.body = "Hola Infinity Train 🚂 🐢";
 })
+
+rootRouter.get("/", async (ctx) => {
+  await send(ctx, ctx.request.url.pathname, {
+    root: `${Deno.cwd()}`,
+    index: 'public/index.html'
+  });
+})
+
+rootRouter.get('/public/:path+', async (ctx) => {
+  await send(ctx, ctx.request.url.pathname, {
+    root: `${Deno.cwd()}`,
+  });
+});
 
 app.use(rootRouter.routes())
 
