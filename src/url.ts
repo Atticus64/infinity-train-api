@@ -1,7 +1,7 @@
 export interface Endpoints {
-    characters: string;
-    eastereggs: string;
-    seasons: string;
+  characters: string;
+  eastereggs: string;
+  seasons: string;
 }
 
 const urlCharacters = "/api/characters"
@@ -10,7 +10,7 @@ const urlSeasons = "/api/seasons"
 
 
 export {
-    urlCharacters,
-    urlEastereggs,
-    urlSeasons
+  urlCharacters,
+  urlEastereggs,
+  urlSeasons
 }
