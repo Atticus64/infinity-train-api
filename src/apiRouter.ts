@@ -7,7 +7,7 @@ import { formatJson } from "./utils/formatJson.ts";
 
 const apiRouter = new Router();
 
-const prodUrl = "https://the-infinity-train-api.deno.dev/api"
+export const prodUrl = "https://the-infinity-train-api.deno.dev/api"
 
 const urls: Endpoints = {
   characters: `${prodUrl}/characters`,

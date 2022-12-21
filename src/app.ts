@@ -1,5 +1,4 @@
 import { Application, Router, Context, send } from "oak";
-
 import { apiRouter } from '$/apiRouter.ts'
 
 const app = new Application();
@@ -43,6 +42,8 @@ app.use((ctx) => {
   ctx.response.status = 404
 })
 
+export default app
+
 console.log(`Server running in http://localhost:${port} 🦍`);
 
-await app.listen({ port });
+if (import.meta.main) await app.listen({ port });
