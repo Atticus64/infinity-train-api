@@ -13,7 +13,9 @@ app.use((ctx, next) => {
 const rootRouter = new Router();
 
 rootRouter.get("/api/test", (ctx: Context) => {
-  ctx.response.body = "Hola Infinity Train 🚂 🐢";
+  ctx.response.body = {
+    msg: "Hola Infinity Train 🚂 🐢"
+  }
 })
 
 rootRouter.get("/", async (ctx) => {
@@ -34,7 +36,10 @@ app.use(rootRouter.routes())
 app.use(apiRouter.routes())
 
 app.use((ctx) => {
-  ctx.response.body = "404 not found"
+  ctx.response.body = {
+    msg: "404 not found",
+    suggestion: "try go to /api"
+  }
   ctx.response.status = 404
 })
 
