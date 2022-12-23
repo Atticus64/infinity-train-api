@@ -2,6 +2,7 @@
   "imports": {
     "oak": "https://deno.land/x/oak@v11.1.0/mod.ts",
     "superoak": "https://deno.land/x/superoak@4.7.0/mod.ts",
+    "testing": "https://deno.land/std@0.152.0/testing/asserts.ts",
     "$/": "./src/"
   }
 }
