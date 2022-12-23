@@ -1,33 +1,28 @@
 import { Context, Router } from "oak";
-import { Endpoints } from './url.ts';
-import charachersRouter from './characters/app.ts';
-import easterRouter from './eastereggs/app.ts';
+import { Endpoints } from "./url.ts";
+import charachersRouter from "./characters/app.ts";
+import easterRouter from "./eastereggs/app.ts";
 import seasonsRouter from "./seasons/app.ts";
 import { formatJson } from "./utils/formatJson.ts";
 
 const apiRouter = new Router();
 
-export const prodUrl = "https://the-infinity-train-api.deno.dev/api"
+export const prodUrl = "https://the-infinity-train-api.deno.dev/api";
 
 const urls: Endpoints = {
   characters: `${prodUrl}/characters`,
   seasons: `${prodUrl}/seasons`,
-  eastereggs: `${prodUrl}/eastereggs`
-}
+  eastereggs: `${prodUrl}/eastereggs`,
+};
 
+apiRouter.get("/api", (ctx: Context) => {
+  return ctx.response.body = formatJson(ctx, urls);
+});
 
-apiRouter.get('/api', (ctx: Context) => {
+apiRouter.use(charachersRouter.routes());
 
-  return ctx.response.body = formatJson(ctx, urls)
-})
+apiRouter.use(easterRouter.routes());
 
-apiRouter.use(charachersRouter.routes())
+apiRouter.use(seasonsRouter.routes());
 
-apiRouter.use(easterRouter.routes())
-
-apiRouter.use(seasonsRouter.routes())
-
-
-export {
-  apiRouter
-}
+export { apiRouter };

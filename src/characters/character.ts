@@ -7,5 +7,5 @@ export interface Character {
 }
 
 export interface Characters {
-  characters: Character[]
+  characters: Character[];
 }

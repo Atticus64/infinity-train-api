@@ -1,11 +1,11 @@
-# The Infinity Train Api 🚂 :turtle: 
+# The Infinity Train Api 🚂 :turtle:
 
 # Documentation
 
-* This is the unique and wonderful Infinity Train Api! - Glad-One
-* I think you are overplaying in all of the senses - Sad-One
+- This is the unique and wonderful Infinity Train Api! - Glad-One
+- I think you are overplaying in all of the senses - Sad-One
 
-*Important: Currently in development :warning:*
+_Important: Currently in development :warning:_
 
 ## Dev Server
 

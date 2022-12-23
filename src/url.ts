@@ -4,13 +4,8 @@ export interface Endpoints {
   seasons: string;
 }
 
-const urlCharacters = "/api/characters"
-const urlEastereggs = "/api/eastereggs"
-const urlSeasons = "/api/seasons"
+const urlCharacters = "/api/characters";
+const urlEastereggs = "/api/eastereggs";
+const urlSeasons = "/api/seasons";
 
-
-export {
-  urlCharacters,
-  urlEastereggs,
-  urlSeasons
-}
+export { urlCharacters, urlEastereggs, urlSeasons };
