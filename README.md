@@ -1,6 +1,6 @@
 # The Infinity Train Api 🚂 :turtle:
 
-# Documentation
+# [ Documentation ](https://github.com/Atticus64/infinity-train-api/wiki)
 
 - This is the unique and wonderful Infinity Train Api! - Glad-One
 - I think you are overplaying in all of the senses - Sad-One
