@@ -4,10 +4,10 @@ import { prodUrl } from "../src/apiRouter.ts";
 
 Deno.test("Test api/test endpoint should return string", async () => {
   const request = await superoak(app);
-  const expectedJson = {
+  const json = {
     "msg": "Hola Infinity Train 🚂 🐢",
   };
-  await request.get("/api/test").expect(200).expect(expectedJson);
+  await request.get("/api/test").expect(200).expect(json);
 });
 
 Deno.test("Test api/ must return array of strings", async () => {
