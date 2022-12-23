@@ -12,7 +12,14 @@ export type Data =
   | Season
   | Seasons;
 
-const formatJson = (ctx: Context, data: Data) => {
+
+/**
+ * Format the json according to the pretty parameter in ctx
+ * @param ctx - Context of request
+ * @param data - Json to format
+ * @returns {Data | string} Json formated 
+ */
+const formatJson = (ctx: Context, data: Data): string | Data => {
   if (!ctx.request.url.searchParams.has("pretty")) return data;
 
   const prettyJson = JSON.stringify(data, null, 2);
