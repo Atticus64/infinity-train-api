@@ -1,13 +1,11 @@
-import app from "$/app.ts";
-import { superoak } from "superoak";
+import app from "$/main.ts";
 import { assertEquals } from "testing";
 
 Deno.test("If url dont exist must return 404", async () => {
-  const request = await superoak(app);
-
-  const resp = await request.get("/no-exist").expect(404);
+  const res = await app.request("http://localhost:8000/no-exist");
+  const json = await res.json();
 
   const errorMsg = { msg: "404 not found", suggestion: "try go to /api" };
 
-  assertEquals(errorMsg, resp.body);
+  assertEquals(json, errorMsg);
 });
