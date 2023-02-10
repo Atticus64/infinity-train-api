@@ -6,10 +6,5 @@
     "fmt": "deno fmt",
     "lint": "deno lint"
   },
-  "imports": {
-    "hono": "https://deno.land/x/hono@v2.7.7/mod.ts",
-    "hono_middleware": "https://deno.land/x/hono@v2.7.7/middleware.ts",
-    "std/": "https://deno.land/std@0.174.0/",
-    "$/": "./src/"
-  }
+  "importMap": "./import_map.json"
 }
