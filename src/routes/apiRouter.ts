@@ -11,6 +11,12 @@ const urls = {
   eastereggs: `${prodUrl}/eastereggs`,
 } satisfies Endpoints;
 
+apiRouter.get("/test", (c: Context) => {
+  return c.json({
+    msg: "Hola Infinity Train 🚂 🐢",
+  });
+});
+
 apiRouter.get("/", (c: Context) => {
   c.pretty(true);
   return c.json(urls);

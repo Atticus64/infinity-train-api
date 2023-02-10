@@ -44,3 +44,5 @@ app.get("*", (c) => {
 
 // start server
 if (import.meta.main) await serve(app.fetch);
+
+export default app;
