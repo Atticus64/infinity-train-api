@@ -1,6 +1,6 @@
 import { Hono } from "hono";
 import { serve } from "std/http/server.ts";
-import { cors, logger, serveStatic } from "hono_middleware";
+import { cors, logger, prettyJSON, serveStatic } from "hono_middleware";
 import apiRouter from "./routes/apiRouter.ts";
 import charactersRouter from "./routes/characters/index.ts";
 import { formatJson } from "./common/middlewares/index.ts";
@@ -13,6 +13,9 @@ const app = new Hono();
 app.use(cors({
   origin: "*",
 }));
+
+app.use("*", prettyJSON());
+
 app.use("*", logger());
 
 app.use("/api/*", async (c, next) => {
