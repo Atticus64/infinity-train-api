@@ -5,7 +5,3 @@ export interface Character {
   gender: string;
   alive: boolean;
 }
-
-export interface Characters {
-  characters: Character[];
-}

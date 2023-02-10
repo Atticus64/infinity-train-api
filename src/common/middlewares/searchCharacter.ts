@@ -1,4 +1,4 @@
-import { Character } from "./character.ts";
+import { Character } from "$/routes/characters/entities/character.entity.ts";
 
 const searchCharacter = (
   characters: Character[],

@@ -1,10 +1,16 @@
 {
   "tasks": {
-    "start": "deno run --allow-net --allow-read src/app.ts",
-    "dev": "deno run --watch --allow-net --allow-read src/app.ts",
+    "start": "deno run --allow-net --allow-read src/main.ts",
+    "dev": "deno run --watch --allow-net --allow-read src/main.ts",
     "test": "deno test --allow-net --allow-read tests/",
     "fmt": "deno fmt",
     "lint": "deno lint"
   },
-  "importMap": "./import_map.json"
+  "imports": {
+    "hono": "https://deno.land/x/hono@v2.7.7/mod.ts",
+    "hono_middleware": "https://deno.land/x/hono@v2.7.7/middleware.ts",
+    "testing": "https://deno.land/std@0.152.0/testing/asserts.ts",
+    "std/": "https://deno.land/std@0.174.0/",
+    "$/": "./src/"
+  }
 }
