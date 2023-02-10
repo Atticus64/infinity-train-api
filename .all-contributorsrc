@@ -11,5 +11,17 @@
   "repoType": "github",
   "repoHost": "https://github.com",
   "projectName": "infinity-train-api",
-  "projectOwner": "Atticus64"
+  "projectOwner": "Atticus64",
+  "contributors": [
+    {
+      "login": "gustavocadev",
+      "name": "CA Gustavo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84424661?v=4",
+      "profile": "http://gustavocadev.me",
+      "contributions": [
+        "code",
+        "doc"
+      ]
+    }
+  ]
 }
