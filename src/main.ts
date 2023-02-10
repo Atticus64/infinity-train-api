@@ -1,6 +1,6 @@
-import { Context, Hono } from "hono";
+import { Hono } from "hono";
 import { serve } from "std/http/server.ts";
-import { cors, logger } from "hono_middleware";
+import { cors, logger, serveStatic } from "hono_middleware";
 import apiRouter from "./routes/apiRouter.ts";
 import charactersRouter from "./routes/characters/index.ts";
 import { formatJson } from "./common/middlewares/index.ts";
@@ -28,10 +28,10 @@ app.route(
   charactersRouter,
 );
 
-// root route
-app.get("/", (c: Context) => {
-  return c.text("Hello World!");
-});
+// static route
+app.get("/*", serveStatic({ root: "./static" }));
+
+app.get("/", (c) => c.redirect("/app"));
 
 // 404 route
 app.get("*", (c) => {
