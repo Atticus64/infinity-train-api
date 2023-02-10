@@ -1,15 +1,15 @@
 {
   "tasks": {
-    "start": "deno run --allow-net --allow-read src/app.ts",
-    "dev": "deno run --watch --allow-net --allow-read src/app.ts",
+    "start": "deno run --allow-net --allow-read src/main.ts",
+    "dev": "deno run --watch --allow-net --allow-read src/main.ts",
     "test": "deno test --allow-net --allow-read tests/",
     "fmt": "deno fmt",
     "lint": "deno lint"
   },
   "imports": {
-    "oak": "https://deno.land/x/oak@v11.1.0/mod.ts",
-    "superoak": "https://deno.land/x/superoak@4.7.0/mod.ts",
-    "testing": "https://deno.land/std@0.152.0/testing/asserts.ts",
+    "hono": "https://deno.land/x/hono@v2.7.7/mod.ts",
+    "hono_middleware": "https://deno.land/x/hono@v2.7.7/middleware.ts",
+    "std/": "https://deno.land/std@0.174.0/",
     "$/": "./src/"
   }
 }
