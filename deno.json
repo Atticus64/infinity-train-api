@@ -2,6 +2,7 @@
   "tasks": {
     "start": "deno run --allow-net --allow-read src/main.ts",
     "dev": "deno run --watch --allow-net --allow-read src/main.ts",
+    "scrape": "deno run --allow-read --allow-net --allow-write src/scraping/characters.scraper.ts",
     "test": "deno test --allow-net --allow-read tests/",
     "fmt": "deno fmt",
     "lint": "deno lint"

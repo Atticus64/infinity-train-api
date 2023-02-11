@@ -1,4 +1,5 @@
 import { Context } from "hono";
+import { z } from "zod";
 import charactersJson from "$/data/characters.json" assert { type: "json" };
 import {
   searchCharacter,
@@ -7,7 +8,7 @@ import {
 import { Character } from "./entities/character.entity.ts";
 import { Environment } from "https://deno.land/x/hono@v2.7.7/types.ts";
 
-const characters = charactersJson.characters;
+const characters: Character[] = charactersJson;
 
 export const get_characters = (c: Context) => {
   try {
@@ -24,10 +25,13 @@ export const get_character = (c: Context<"query", Environment, unknown>) => {
   const query = c.req.param("query");
   let character: Character | undefined;
 
-  if (isNaN(Number(query))) {
-    character = searchCharacter(characters, query);
-  } else {
+  const stringSchema = z.string();
+  const numberSchema = z.number();
+
+  if (numberSchema.safeParse(Number(query)).success) {
     character = searchCharacterByIndex(characters, Number(query));
+  } else if (stringSchema.safeParse(query).success) {
+    character = searchCharacter(characters, query);
   }
 
   if (character === undefined) {
