@@ -1,33 +1,71 @@
 import * as cheerio from "npm:cheerio";
 import { characters } from "./data/characters.ts";
 
-export async function getCharacterImages() {
-  const images = [];
+type getCharactersProps = {
+  refetch?: boolean;
+};
 
-  for (const c of characters) {
-    const res = await fetch(`https://infinity-train.fandom.com/wiki/${c}`);
-    const html = await res.text();
+type ImageLink = {
+  name: string;
+  image_link: string;
+  extension: string;
+};
 
-    const $ = cheerio.load(html);
+export async function getCharacterImages({
+  refetch = false,
+}: getCharactersProps): Promise<ImageLink[]> {
+  const baseDir = "./src/scraping/characters/data/image_links.json";
+  if (!refetch) {
+    const data = await Deno.readTextFile(baseDir);
 
-    const figure = $(".pi-item.pi-image");
-    const imageUrl = figure.find("a").attr("href") ?? "";
-
-    const image = {
-      name: c,
-      imageUrl,
-    };
-    images.push(image);
+    return JSON.parse(data);
   }
 
-  return images;
+  const imageLinks = [] as ImageLink[];
+
+  for (const c of characters) {
+    try {
+      const res = await fetch(`https://infinity-train.fandom.com/wiki/${c}`);
+      const html = await res.text();
+
+      const $ = cheerio.load(html);
+
+      const figure = $(".pi-item.pi-image");
+      const image_link = figure.find("a").attr("href") ?? "";
+
+      const imgName = image_link.split("/")[7];
+      console.log({ imgName });
+      const extension = imgName.split(".")[imgName.split(".").length - 1];
+      console.log({ extension });
+
+      const image = {
+        name: c,
+        image_link,
+        extension,
+      };
+      imageLinks.push(image);
+    } catch (error) {
+      console.log(error);
+    }
+  }
+
+  // write the data to the file system
+  await Deno.writeTextFile(baseDir, JSON.stringify(imageLinks, null, 2));
+
+  return imageLinks;
 }
 
-export const writeImagesCharacters = async () => {
-  const images = await getCharacterImages();
+type writeImagesCharactersProps = {
+  refetch?: boolean;
+};
+
+export const writeImagesCharacters = async (
+  { refetch = false }: writeImagesCharactersProps,
+) => {
+  const images = await getCharacterImages({ refetch });
   for (const img of images) {
     try {
-      const resp = await fetch(img.imageUrl);
+      const resp = await fetch(img.image_link);
 
       // arrayBuffer is a array of bytes - every byte is a number between 0 and 255 and an image is a array of bytes, any file is a array of bytes
       const bytes = await resp.arrayBuffer();
@@ -43,7 +81,7 @@ export const writeImagesCharacters = async () => {
 
       // write the image to the file system
       await Deno.writeFile(
-        `./static/img/characters/${img.name}.png`,
+        `./static/img/characters/${img.name}.${img.extension}`,
         imgToUint8,
       );
     } catch (error) {
@@ -52,4 +90,6 @@ export const writeImagesCharacters = async () => {
   }
 };
 
-writeImagesCharacters();
+await writeImagesCharacters({
+  refetch: false,
+});
