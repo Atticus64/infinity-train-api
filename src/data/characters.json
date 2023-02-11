@@ -1,6 +1,7 @@
 [
 	{
 		"name": "Alan Dracula",
+		"img": "/img/characters/alan-dracula.png",
 		"Aliases": "DeerSuper Deer (Special Agent Mace)",
 		"Species": "White-tailed Deer denizen",
 		"Gender": "Male ♂",
@@ -28,6 +29,7 @@
 	},
 	{
 		"name": "Alex",
+		"img": "/img/characters/alex.png",
 		"Species": "Human",
 		"Gender": "Male ♂",
 		"Hair Color": "Blonde",
@@ -42,6 +44,7 @@
 	},
 	{
 		"name": "Aloysius III",
+		"img": "/img/characters/aloysius-iii.png",
 		"Titles": "Emperor  Unifier",
 		"Species": "Turtle Person",
 		"Gender": "Male ♂",
@@ -59,6 +62,7 @@
 	},
 	{
 		"name": "Alrick Timmens",
+		"img": "/img/characters/alrick-timmens.png",
 		"Species": "Human",
 		"Gender": "Male ♂",
 		"Age": "Late 20s – Early 30s",
@@ -75,6 +79,7 @@
 	},
 	{
 		"name": "Amelia Hughes",
+		"img": "/img/characters/amelia-hughes.png",
 		"Aliases": "The ConductorThe True Conductor (The Apex)The False Conductor (Grace Monroe)",
 		"Species": "Human",
 		"Gender": "Female ♀",
@@ -99,6 +104,7 @@
 	},
 	{
 		"name": "Andy Olsen",
+		"img": "/img/characters/andy-olsen.png",
 		"Aliases": "Dad",
 		"Species": "Human",
 		"Gender": "Male ♂",
@@ -114,6 +120,7 @@
 	},
 	{
 		"name": "Ant Blacksmith",
+		"img": "/img/characters/ant-blacksmith.png",
 		"Status": "Alive",
 		"Residence": "Old West Car",
 		"First Appearance": "\"The Old West Car\"",
@@ -123,6 +130,7 @@
 	},
 	{
 		"name": "Atticus",
+		"img": "/img/characters/atticus.png",
 		"Titles": "King of and uniter of the Cardigans and Pembrokes",
 		"Species": "Cardigan Corginia Corgi",
 		"Gender": "Male ♂",
@@ -147,6 +155,7 @@
 	},
 	{
 		"name": "Ballerina Kids",
+		"img": "/img/characters/ballerina-kids.png",
 		"Aliases": "ShaynaChloeTwo Unnamed Girls",
 		"Enemies": [
 			"Grace Monroe"
@@ -156,6 +165,7 @@
 	},
 	{
 		"name": "Beehive",
+		"img": "/img/characters/beehive.png",
 		"Titles": "Beehive",
 		"Gender": "Male ♂",
 		"Status": "Alive",
@@ -174,6 +184,7 @@
 	},
 	{
 		"name": "Beetle Bailiff",
+		"img": "/img/characters/beetle-bailiff.png",
 		"Gender": "Male ♂",
 		"Status": "Alive",
 		"Residence": "Old West Car",
@@ -191,6 +202,7 @@
 	},
 	{
 		"name": "Ben Greene",
+		"img": "/img/characters/ben-greene.png",
 		"Species": "Grape People",
 		"Status": "Alive",
 		"First Appearance": "\"The Green Car\"",
@@ -200,6 +212,7 @@
 	},
 	{
 		"name": "Brando",
+		"img": "/img/characters/brando.png",
 		"Titles": "Brando",
 		"Aliases": "Zoobee",
 		"Gender": "Male ♂",
@@ -218,6 +231,7 @@
 	},
 	{
 		"name": "Bug Cowboys",
+		"img": "/img/characters/bug-cowboys.png",
 		"Complexion": "Variant",
 		"Location": "Old West Car",
 		"Leader": "Caterpillar Sheriff",
@@ -227,6 +241,7 @@
 	},
 	{
 		"name": "Building Person",
+		"img": "/img/characters/building-person.png",
 		"Race": "Building People",
 		"Gender": "Male",
 		"Status": "Alive",
@@ -236,6 +251,7 @@
 	},
 	{
 		"name": "Building People",
+		"img": "/img/characters/building-people.png",
 		"Eye Color": "Red",
 		"Complexion": "Brick",
 		"Traits": "Terrible Peripheral Vision",
@@ -246,6 +262,7 @@
 	},
 	{
 		"name": "Candy Girl",
+		"img": "/img/characters/candy-girl.png",
 		"Race": "Concession People",
 		"Gender": "Female",
 		"Outfit": "Candy Box",
@@ -256,6 +273,7 @@
 	},
 	{
 		"name": "Carrot People",
+		"img": "/img/characters/carrot-people.png",
 		"Eye Color": "Hollow",
 		"Complexion": "OrangeCarrot Shaped Head",
 		"Hair Color": "Green",
@@ -266,6 +284,7 @@
 	},
 	{
 		"name": "Chandelier",
+		"img": "/img/characters/chandelier.png",
 		"Species": "Denizen (Chandelier)",
 		"Gender": "Male ♂",
 		"Eye Color": "White",
@@ -279,6 +298,7 @@
 	},
 	{
 		"name": "Concession People",
+		"img": "/img/characters/concession-people.png",
 		"Location": "Movie Theater Car",
 		"Leader": "Concession Stand Monster",
 		"Enemies": [],
@@ -287,6 +307,7 @@
 	},
 	{
 		"name": "Concession Stand Monster",
+		"img": "/img/characters/concession-stand-monster.png",
 		"Accessories": "Hidden in car itself",
 		"Status": "Alive",
 		"Friend(s)": "Popcorn GirlSoda GirlCandy GirlNacho Girl",
@@ -295,6 +316,7 @@
 	},
 	{
 		"name": "Corginian Corgis",
+		"img": "/img/characters/corginian-corgis.png",
 		"Location": "Corginia",
 		"Leader": "Atticus",
 		"Allies": "Tulip OlsenOne-OneTurtle PeopleUgly Irwin",
@@ -304,6 +326,7 @@
 	},
 	{
 		"name": "Cow Creamer",
+		"img": "/img/characters/cow-creamer.png",
 		"Gender": "Female ♀",
 		"Status": "Alive",
 		"Residence": "Pig Baby Car",
@@ -320,6 +343,7 @@
 	},
 	{
 		"name": "Crochet People",
+		"img": "/img/characters/crochet-people.png",
 		"Hair Color": "Pink",
 		"Location": "Doily Car",
 		"First Appearance": "\"The Black Market Car\"",
@@ -328,6 +352,7 @@
 	},
 	{
 		"name": "Cross-Eyed Ducks",
+		"img": "/img/characters/cross-eyed-ducks.png",
 		"Complexion": "White Feathers",
 		"Traits": "Crossed Eyes",
 		"Location": "Cross-Eyed Ducks Car",
@@ -337,6 +362,7 @@
 	},
 	{
 		"name": "Cubey Denizens",
+		"img": "/img/characters/cubey-denizens.png",
 		"Complexion": "Grey",
 		"Traits": "Rocks",
 		"Location": "Hey Ho Whoa Car",
@@ -346,6 +372,7 @@
 	},
 	{
 		"name": "Danny Nougat",
+		"img": "/img/characters/danny-nougat.png",
 		"Species": "Human",
 		"Gender": "Male ♂",
 		"Age": "Adult",
@@ -360,6 +387,7 @@
 	},
 	{
 		"name": "Danny Nougat's daughter",
+		"img": "/img/characters/danny-nougat's-daughter.png",
 		"Hair Color": "Brown",
 		"Complexion": "Light",
 		"Relatives": "Danny Nougat",
@@ -369,11 +397,13 @@
 	},
 	{
 		"name": "",
+		"img": "/img/characters/.png",
 		"Friends": [],
 		"Enemies": []
 	},
 	{
 		"name": "Docent",
+		"img": "/img/characters/docent.png",
 		"Residence": "Art Gallery Car",
 		"Enemies": [
 			"Min-Gi Park",
@@ -385,6 +415,7 @@
 	},
 	{
 		"name": "Driveway",
+		"img": "/img/characters/driveway.png",
 		"Titles": "Driveway",
 		"Species": "Cubey Denizen",
 		"Gender": "Male ♂",
@@ -403,6 +434,7 @@
 	},
 	{
 		"name": "Floating Jellyfish",
+		"img": "/img/characters/floating-jellyfish.png",
 		"Traits": "FloatingLuminous",
 		"Location": "Jellyfish Car",
 		"First Appearance": "\"The Black Market Car\"",
@@ -411,6 +443,7 @@
 	},
 	{
 		"name": "Flying Snakes",
+		"img": "/img/characters/flying-snakes.png",
 		"Eye Color": "Green",
 		"Complexion": "Yellow scales",
 		"Traits": "Flying",
@@ -421,6 +454,7 @@
 	},
 	{
 		"name": "Frank",
+		"img": "/img/characters/frank.png",
 		"Species": "Bear",
 		"Gender": "Male ♂",
 		"Hair Color": "Brown",
@@ -434,6 +468,7 @@
 	},
 	{
 		"name": "Fyodor",
+		"img": "/img/characters/fyodor.png",
 		"Titles": "Fyodor",
 		"Aliases": "None",
 		"Gender": "Genderless ø",
@@ -447,6 +482,7 @@
 	},
 	{
 		"name": "Ghoms",
+		"img": "/img/characters/ghoms.png",
 		"Complexion": "Black",
 		"Traits": "Able to eat soulsAble to flyAggression",
 		"Location": "Wasteland",
@@ -456,6 +492,7 @@
 	},
 	{
 		"name": "Giant",
+		"img": "/img/characters/giant.png",
 		"Status": "Alive",
 		"Residence": "Crystal Car",
 		"Occupation": "Gatekeeper",
@@ -465,6 +502,7 @@
 	},
 	{
 		"name": "Grace Monroe",
+		"img": "/img/characters/grace-monroe.png",
 		"Species": "Human",
 		"Gender": "Female ♀",
 		"Age": "18[1]",
@@ -497,6 +535,7 @@
 	},
 	{
 		"name": "Grace's babysitters",
+		"img": "/img/characters/grace's-babysitters.png",
 		"Aliases": "Known Names:JulieMollyJacobSusan",
 		"Occupation": "Grace Monroe's caregivers",
 		"Friends": [],
@@ -504,6 +543,7 @@
 	},
 	{
 		"name": "Mr.Monroe",
+		"img": "/img/characters/mr.monroe.png",
 		"Gender": "Male ♂",
 		"Hair Color": "Dark",
 		"Complexion": "Dark",
@@ -516,6 +556,7 @@
 	},
 	{
 		"name": "Grace's Mother",
+		"img": "/img/characters/grace's-mother.png",
 		"Gender": "Female ♀",
 		"Hair Color": "Dark",
 		"Complexion": "Dark",
@@ -528,6 +569,7 @@
 	},
 	{
 		"name": "Grasshopper",
+		"img": "/img/characters/grasshopper.png",
 		"Gender": "Male ♂",
 		"Status": "Alive",
 		"Residence": "Old West Car",
@@ -545,6 +587,7 @@
 	},
 	{
 		"name": "Greige",
+		"img": "/img/characters/greige.png",
 		"Aliases": "The Crystal Man",
 		"Complexion": "Greige",
 		"Status": "Alive",
@@ -556,6 +599,7 @@
 	},
 	{
 		"name": "Hazel",
+		"img": "/img/characters/hazel.png",
 		"Titles": "Debatable (Amelia)",
 		"Species": "Experimental Humanoid/Turtle Person",
 		"Gender": "Female ♀",
@@ -576,6 +620,7 @@
 	},
 	{
 		"name": "Hill Man",
+		"img": "/img/characters/hill-man.png",
 		"Species": "Hill People",
 		"Gender": "Male ♂",
 		"Status": "Alive",
@@ -585,6 +630,7 @@
 	},
 	{
 		"name": "Horace",
+		"img": "/img/characters/horace.png",
 		"Titles": "Horace",
 		"Gender": "Male ♂",
 		"Age": "Unknown",
@@ -598,12 +644,14 @@
 	},
 	{
 		"name": "Hot Dog",
+		"img": "/img/characters/hot-dog.png",
 		"Friend(s)": "One-OneLinnette Ramsey-WilkinsonJoe",
 		"Friends": [],
 		"Enemies": []
 	},
 	{
 		"name": "Insect Denizens",
+		"img": "/img/characters/insect-denizens.png",
 		"Eye Color": "Variant",
 		"Complexion": "Variant",
 		"Traits": "Variant",
@@ -615,6 +663,7 @@
 	},
 	{
 		"name": "Jeremy Bradford",
+		"img": "/img/characters/jeremy-bradford.png",
 		"Gender": "Male ♂",
 		"Status": "Alive",
 		"Residence": "Mega Maze Car (formerly; current residence unknown)",
@@ -626,6 +675,7 @@
 	},
 	{
 		"name": "Jesse Cosay",
+		"img": "/img/characters/jesse-cosay.png",
 		"Titles": "CasanovaDing Dong (Lake)Tomcat (The Cat)",
 		"Species": "Human",
 		"Gender": "Male ♂",
@@ -653,6 +703,7 @@
 	},
 	{
 		"name": "Mr. Cosay",
+		"img": "/img/characters/mr.-cosay.png",
 		"Alias": "Dad",
 		"Gender": "Male",
 		"Age": "Late 30s to 40s",
@@ -665,6 +716,7 @@
 	},
 	{
 		"name": "Jesse's Friends",
+		"img": "/img/characters/jesse's-friends.png",
 		"Aliases": "Known \"friends\":Troy Banks (Scott Menville)Bully #1 (Scott Menville)Bully #2 (Robbie Daymond)Bully #3 (Owen Dennis)",
 		"Residence": "Arizona, United States",
 		"Friends": [
@@ -675,6 +727,7 @@
 	},
 	{
 		"name": "Mrs. Cosay",
+		"img": "/img/characters/mrs.-cosay.png",
 		"Alias": "Mom",
 		"Gender": "Female",
 		"Age": "Late 30s to 40s",
@@ -686,12 +739,14 @@
 	},
 	{
 		"name": "Joe",
+		"img": "/img/characters/joe.png",
 		"Friend(s)": "One-OneLinnette Ramsey-WilkinsonHot Dog",
 		"Friends": [],
 		"Enemies": []
 	},
 	{
 		"name": "Judge Morpho",
+		"img": "/img/characters/judge-morpho.png",
 		"Aliases": "Caterpillar Sheriff",
 		"Species": "Butterfly",
 		"Gender": "Female ♀",
@@ -717,6 +772,7 @@
 	},
 	{
 		"name": "Kaiju Monsters",
+		"img": "/img/characters/kaiju-monsters.png",
 		"Eye Color": "Black (Pterodactyl monster)Yellow (Flying shark monster)",
 		"Complexion": "Yellow (Pterodactyl monster)Dark grey and grayish blue (Flying shark monster)",
 		"Residence": "Kaiju Car",
@@ -726,6 +782,7 @@
 	},
 	{
 		"name": "Kevin",
+		"img": "/img/characters/kevin.png",
 		"Race": "Turtle Person",
 		"Gender": "Male",
 		"Outfit": "JacketBlue Necktie",
@@ -737,6 +794,7 @@
 	},
 	{
 		"name": "Kez",
+		"img": "/img/characters/kez.png",
 		"Aliases": "Cactus Kez (Bug Cowboys)LorraineButter Kez (Cow Creamer)",
 		"Species": "Concierge Bell denizen",
 		"Friends": [
@@ -765,6 +823,7 @@
 	},
 	{
 		"name": "Khaki Bottoms",
+		"img": "/img/characters/khaki-bottoms.png",
 		"Species": "Stuffed Toy Rabbit",
 		"Gender": "Male ♂",
 		"Complexion": "Teal Cloth",
@@ -781,6 +840,7 @@
 	},
 	{
 		"name": "Lake",
+		"img": "/img/characters/lake.png",
 		"Aliases": "Mirror TulipM.T.GambitChrome Girl",
 		"Species": "Cracked Reflection",
 		"Gender": "Female ♀",
@@ -815,6 +875,7 @@
 	},
 	{
 		"name": "Lava Mole",
+		"img": "/img/characters/lava-mole.png",
 		"Race": "Molten Mole",
 		"Gender": "Male",
 		"Status": "Alive",
@@ -823,6 +884,7 @@
 	},
 	{
 		"name": "Lindsay",
+		"img": "/img/characters/lindsay.png",
 		"Gender": "Female ♀",
 		"Hair Color": "Brown",
 		"Status": "Alive",
@@ -836,12 +898,14 @@
 	},
 	{
 		"name": "Linnette Ramsey-Wilkinson",
+		"img": "/img/characters/linnette-ramsey-wilkinson.png",
 		"Friend(s)": "One-OneJoeHot Dog",
 		"Friends": [],
 		"Enemies": []
 	},
 	{
 		"name": "Louise",
+		"img": "/img/characters/louise.png",
 		"Gender": "Unknown ?",
 		"Hair Color": "Unknown",
 		"Status": "Alive",
@@ -852,6 +916,7 @@
 	},
 	{
 		"name": "Lucy",
+		"img": "/img/characters/lucy.png",
 		"Species": "Human",
 		"Gender": "Female ♀",
 		"Hair Color": "Brown",
@@ -870,6 +935,7 @@
 	},
 	{
 		"name": "Agent Mace",
+		"img": "/img/characters/agent-mace.png",
 		"Gender": "Male ♂",
 		"Complexion": "Metallic with \"skins\"",
 		"Status": "Deceased",
@@ -891,6 +957,7 @@
 	},
 	{
 		"name": "Mail Lady",
+		"img": "/img/characters/mail-lady.png",
 		"Species": "Turtle Person",
 		"Gender": "Female ♀",
 		"Residence": "Unfinished Car",
@@ -907,6 +974,7 @@
 	},
 	{
 		"name": "Mantis",
+		"img": "/img/characters/mantis.png",
 		"Gender": "Male ♂",
 		"Status": "Alive",
 		"Residence": "Old West Car",
@@ -924,6 +992,7 @@
 	},
 	{
 		"name": "Marcel",
+		"img": "/img/characters/marcel.png",
 		"Aliases": "The Wind",
 		"Status": "Deceased",
 		"Enemies": [
@@ -936,6 +1005,7 @@
 	},
 	{
 		"name": "Masked Monsters",
+		"img": "/img/characters/masked-monsters.png",
 		"Complexion": "Varies",
 		"Traits": "Masks",
 		"Location": "Monster Dance Car",
@@ -945,6 +1015,7 @@
 	},
 	{
 		"name": "Megan Olsen",
+		"img": "/img/characters/megan-olsen.png",
 		"Species": "Human",
 		"Gender": "Female ♀",
 		"Hair Color": "Blonde",
@@ -959,6 +1030,7 @@
 	},
 	{
 		"name": "Mermaids",
+		"img": "/img/characters/mermaids.png",
 		"Eye Color": "Black",
 		"Complexion": "White",
 		"Hair Color": "Varies",
@@ -969,6 +1041,7 @@
 	},
 	{
 		"name": "Messenger Corgi",
+		"img": "/img/characters/messenger-corgi.png",
 		"Titles": "Messenger (possibly)",
 		"Species": "Corgi",
 		"Gender": "Male ♂",
@@ -986,6 +1059,7 @@
 	},
 	{
 		"name": "Mikayla",
+		"img": "/img/characters/mikayla.png",
 		"Species": "Human",
 		"Gender": "Female ♀",
 		"Age": "13",
@@ -1004,6 +1078,7 @@
 	},
 	{
 		"name": "Mildred the Tyrannosaur",
+		"img": "/img/characters/mildred-the-tyrannosaur.png",
 		"Species": "Tyrannosaurus rex",
 		"Status": "Alive",
 		"Residence": "Dinosaur Baseball Car",
@@ -1018,6 +1093,7 @@
 	},
 	{
 		"name": "Min-Gi Park",
+		"img": "/img/characters/min-gi-park.png",
 		"Species": "Human",
 		"Gender": "Male ♂",
 		"Age": "18",
@@ -1050,6 +1126,7 @@
 	},
 	{
 		"name": "Min-Gi's Father",
+		"img": "/img/characters/min-gi's-father.png",
 		"Gender": "Male ♂",
 		"Status": "Alive",
 		"Residence": "Powell Lake, British Columbia, Canada",
@@ -1061,6 +1138,7 @@
 	},
 	{
 		"name": "Min-Gi's Mother",
+		"img": "/img/characters/min-gi's-mother.png",
 		"Gender": "Female ♀",
 		"Status": "Alive",
 		"Residence": "Powell Lake, British Columbia, Canada",
@@ -1072,6 +1150,7 @@
 	},
 	{
 		"name": "Dolphin HandlerHarry The Bike GuyMirror OneMirror AtticusMirror MedicsFemale TeacherMale TeacherAlexBugelLouiseHoraceThe AnnouncerTeen Fan",
+		"img": "/img/characters/dolphin-handlerharry-the-bike-guymirror-onemirror-atticusmirror-medicsfemale-teachermale-teacheralexbugellouisehoracethe-announcerteen-fan.png",
 		"Titles": "Horace",
 		"Species": "Human",
 		"Gender": "Female ♀",
@@ -1093,6 +1172,7 @@
 	},
 	{
 		"name": "Mirror Atticus",
+		"img": "/img/characters/mirror-atticus.png",
 		"Gender": "Male ♂",
 		"Hair Color": "Golden",
 		"Status": "Alive",
@@ -1105,6 +1185,7 @@
 	},
 	{
 		"name": "Mirror Medics",
+		"img": "/img/characters/mirror-medics.png",
 		"Gender": "Genderless ø",
 		"Residence": "Chrome Car",
 		"Occupation": "Medical Assistance",
@@ -1114,6 +1195,7 @@
 	},
 	{
 		"name": "Mirror One",
+		"img": "/img/characters/mirror-one.png",
 		"Gender": "Genderless ø",
 		"Status": "Alive",
 		"Residence": "Chrome Car",
@@ -1124,6 +1206,7 @@
 	},
 	{
 		"name": "Morgan",
+		"img": "/img/characters/morgan.png",
 		"Status": "Alive",
 		"Friends": [
 			"Jeremy Bradford",
@@ -1137,6 +1220,7 @@
 	},
 	{
 		"name": "Mrs. Graham",
+		"img": "/img/characters/mrs.-graham.png",
 		"Sex": "Female",
 		"Age": "Late 40s - Early 60s",
 		"Species": "Human",
@@ -1146,6 +1230,7 @@
 	},
 	{
 		"name": "Musical Denizens",
+		"img": "/img/characters/musical-denizens.png",
 		"Location": "Musical Car",
 		"Known members": "Comedy Mask (Keith Ferguson)Tragedy Mask (Kyle McCarley)4 Glove DenizensPlaybill (Kyle McCarley)Spotlight (Kyle McCarley)Stage Light DenizensHand FanOpera GlassesScript",
 		"Allies": "Jesse Cosay",
@@ -1154,6 +1239,7 @@
 	},
 	{
 		"name": "Nacho Girl",
+		"img": "/img/characters/nacho-girl.png",
 		"Race": "Concession People",
 		"Gender": "Female",
 		"Outfit": "Nacho Container",
@@ -1164,6 +1250,7 @@
 	},
 	{
 		"name": "Nancy",
+		"img": "/img/characters/nancy.png",
 		"Gender": "Female ♀",
 		"Status": "Alive",
 		"Residence": "Straight-Up Italy Car",
@@ -1175,6 +1262,7 @@
 	},
 	{
 		"name": "Nate Cosay",
+		"img": "/img/characters/nate-cosay.png",
 		"Gender": "Male ♂",
 		"Age": "8 to 12",
 		"Hair Color": "Black",
@@ -1190,6 +1278,7 @@
 	},
 	{
 		"name": "Nigel",
+		"img": "/img/characters/nigel.png",
 		"Species": "Astro Queue Denizens",
 		"Gender": "Male ♂",
 		"Status": "Alive",
@@ -1209,6 +1298,7 @@
 	},
 	{
 		"name": "Octopus People",
+		"img": "/img/characters/octopus-people.png",
 		"Eye Color": "Variant",
 		"Complexion": "Variant",
 		"Location": "Debutante Ball Car",
@@ -1219,6 +1309,7 @@
 	},
 	{
 		"name": "One-One",
+		"img": "/img/characters/one-one.png",
 		"Titles": "Ball (The Cat)The False Conductor (The Apex)Little Peanut (Amelia Hughes)",
 		"Aliases": "Glad-OneSad-OneOne",
 		"Species": "Robot",
@@ -1248,6 +1339,7 @@
 	},
 	{
 		"name": "Origami Birds",
+		"img": "/img/characters/origami-birds.png",
 		"Complexion": "Paper",
 		"Residence": "Origami Car",
 		"Friends": [],
@@ -1256,6 +1348,7 @@
 	},
 	{
 		"name": "Paco",
+		"img": "/img/characters/paco.png",
 		"Species": "Chicken",
 		"Gender": "Male ♂",
 		"Status": "Alive",
@@ -1273,6 +1366,7 @@
 	},
 	{
 		"name": "Parka Denizens",
+		"img": "/img/characters/parka-denizens.png",
 		"Status": "Alive",
 		"Residence": "Iceberg Car",
 		"Friends": [
@@ -1290,11 +1384,13 @@
 	},
 	{
 		"name": "",
+		"img": "/img/characters/.png",
 		"Friends": [],
 		"Enemies": []
 	},
 	{
 		"name": "Pencil People",
+		"img": "/img/characters/pencil-people.png",
 		"Complexion": "Pencil Body",
 		"Location": "Pencil Bank Car",
 		"First Appearance": "\"The Chrome Car\"",
@@ -1303,6 +1399,7 @@
 	},
 	{
 		"name": "Perry",
+		"img": "/img/characters/perry.png",
 		"Species": "Parasite",
 		"Gender": "Male ♂",
 		"Complexion": "Green",
@@ -1319,6 +1416,7 @@
 	},
 	{
 		"name": "Pig Baby",
+		"img": "/img/characters/pig-baby.png",
 		"Gender": "Male ♂",
 		"Status": "Alive",
 		"Friends": [
@@ -1337,6 +1435,7 @@
 	},
 	{
 		"name": "Popcorn Girl",
+		"img": "/img/characters/popcorn-girl.png",
 		"Race": "Concession People",
 		"Gender": "Female",
 		"Outfit": "Popcorn Bag",
@@ -1347,6 +1446,7 @@
 	},
 	{
 		"name": "Porters",
+		"img": "/img/characters/porters.png",
 		"Name": "Porters",
 		"Sex": "Genderless",
 		"Species": "Robot",
@@ -1355,6 +1455,7 @@
 	},
 	{
 		"name": "Rabbit Dwarfs",
+		"img": "/img/characters/rabbit-dwarfs.png",
 		"Hair Color": "Grey",
 		"Traits": "Fighters",
 		"Location": "Metal Workshop Car",
@@ -1364,6 +1465,7 @@
 	},
 	{
 		"name": "Randall",
+		"img": "/img/characters/randall.png",
 		"Aliases": "Randall Slip-in-the-Cracks Randall",
 		"Species": "Randall; Water Denizen",
 		"Gender": "Male ♂",
@@ -1378,6 +1480,7 @@
 	},
 	{
 		"name": "Roy",
+		"img": "/img/characters/roy.png",
 		"Species": "Denizen (Clock)",
 		"Gender": "Male ♂",
 		"Complexion": "Various Colors",
@@ -1389,6 +1492,7 @@
 	},
 	{
 		"name": "Ryan Akagi",
+		"img": "/img/characters/ryan-akagi.png",
 		"Gender": "Male ♂",
 		"Age": "18",
 		"Hair Color": "Dark Brown",
@@ -1420,6 +1524,7 @@
 	},
 	{
 		"name": "Ryan's Ex-Girlfriends",
+		"img": "/img/characters/ryan's-ex-girlfriends.png",
 		"Aliases": "Disco GirlfriendPunk GirlfriendEarthy Girlfriend",
 		"Gender": "Female ♀",
 		"Friends": [
@@ -1430,6 +1535,7 @@
 	},
 	{
 		"name": "Ryan's Father",
+		"img": "/img/characters/ryan's-father.png",
 		"Gender": "Male ♂",
 		"Status": "Alive",
 		"Residence": "Powell Lake, British Columbia, Canada",
@@ -1441,6 +1547,7 @@
 	},
 	{
 		"name": "Ryan's Mother",
+		"img": "/img/characters/ryan's-mother.png",
 		"Gender": "Female ♀",
 		"Status": "Alive",
 		"Residence": "Powell Lake, British Columbia, Canada",
@@ -1451,6 +1558,7 @@
 	},
 	{
 		"name": "Ryan's Siblings",
+		"img": "/img/characters/ryan's-siblings.png",
 		"Aliases": "Ryan's Sister (Naia Yoshida)Ryan's Other SisterRyan's Brother #1 (Izaac Wang)Ryan's Brother #2 (Nick Kishiyama)",
 		"Ethnicity": "Japanese",
 		"Residence": "Powell River, British Columbia, Canada",
@@ -1460,6 +1568,7 @@
 	},
 	{
 		"name": "Sashay",
+		"img": "/img/characters/sashay.png",
 		"Gender": "Female ♀",
 		"Hair Color": "Purple",
 		"Complexion": "Indigo",
@@ -1478,6 +1587,7 @@
 	},
 	{
 		"name": "Sea serpent",
+		"img": "/img/characters/sea-serpent.png",
 		"Species": "Sea serpent",
 		"Gender": "Genderless ø",
 		"Eye Color": "Black with yellow sclera",
@@ -1491,6 +1601,7 @@
 	},
 	{
 		"name": "Agent Sieve",
+		"img": "/img/characters/agent-sieve.png",
 		"Gender": "Male ♂",
 		"Complexion": "Metallic with \"skins\"",
 		"Status": "Deceased",
@@ -1512,6 +1623,7 @@
 	},
 	{
 		"name": "Simon Laurent",
+		"img": "/img/characters/simon-laurent.png",
 		"Aliases": "Socks and SandalsChef's hatPonytail (Grace)Short Pants (Amelia)",
 		"Species": "Human",
 		"Gender": "Male ♂",
@@ -1543,6 +1655,7 @@
 	},
 	{
 		"name": "Slug People",
+		"img": "/img/characters/slug-people.png",
 		"Traits": "Shady",
 		"Location": "Black Market Car",
 		"First Appearance": "\"The Black Market Car\"",
@@ -1551,6 +1664,7 @@
 	},
 	{
 		"name": "Soda Girl",
+		"img": "/img/characters/soda-girl.png",
 		"Race": "Concession People",
 		"Gender": "Female",
 		"Outfit": "Soda Cup",
@@ -1561,6 +1675,7 @@
 	},
 	{
 		"name": "Spiceman",
+		"img": "/img/characters/spiceman.png",
 		"Species": "Beehive-like denizen",
 		"Gender": "Male ♂",
 		"Complexion": "Golden, sticky",
@@ -1580,6 +1695,7 @@
 	},
 	{
 		"name": "Spotlight",
+		"img": "/img/characters/spotlight.png",
 		"Species": "Stage Light denizen",
 		"Gender": "Male ♂",
 		"Residence": "Musical Car (formerly)Mall Car (currently)",
@@ -1596,6 +1712,7 @@
 	},
 	{
 		"name": "Steward",
+		"img": "/img/characters/steward.png",
 		"Titles": "Steward",
 		"Species": "Robot",
 		"Gender": "Genderless ø",
@@ -1616,6 +1733,7 @@
 	},
 	{
 		"name": "Terrance",
+		"img": "/img/characters/terrance.png",
 		"Aliases": "Toad",
 		"Species": "Toad",
 		"Gender": "Male ♂",
@@ -1637,6 +1755,7 @@
 	},
 	{
 		"name": "The Apex",
+		"img": "/img/characters/the-apex.png",
 		"Location": "Mall Car",
 		"Leader": "Grace Monroe (formerly)Simon Laurent (second-in-command, short leadership; deceased)",
 		"Known members": "Hazel (formerly)LucyToddLindsayAlexLouise (mentioned)",
@@ -1647,6 +1766,7 @@
 	},
 	{
 		"name": "Samantha",
+		"img": "/img/characters/samantha.png",
 		"Aliases": "The Cat",
 		"Species": "Cat",
 		"Gender": "Female ♀",
@@ -1683,6 +1803,7 @@
 	},
 	{
 		"name": "Tiny Wizards",
+		"img": "/img/characters/tiny-wizards.png",
 		"Eye Color": "Glowing Yellow",
 		"Complexion": "Hairy",
 		"Hair Color": "Purple",
@@ -1694,6 +1815,7 @@
 	},
 	{
 		"name": "Todd",
+		"img": "/img/characters/todd.png",
 		"Species": "Human",
 		"Gender": "Male ♂",
 		"Age": "11",
@@ -1717,6 +1839,7 @@
 	},
 	{
 		"name": "Tuba",
+		"img": "/img/characters/tuba.png",
 		"Titles": "The Mighty Tuba",
 		"Species": "Gorilla denizen",
 		"Gender": "Female ♀",
@@ -1732,6 +1855,7 @@
 	},
 	{
 		"name": "Tulip Olsen",
+		"img": "/img/characters/tulip-olsen.png",
 		"Titles": "Tulip the Literate (Atticus)Miss Tulip (One-One)Tulip Prime (Agent Sieve)Kitten (The Cat)The Passenger (Amelia Hughes)",
 		"Species": "Human",
 		"Gender": "Female ♀",
@@ -1766,6 +1890,7 @@
 	},
 	{
 		"name": "Turtle People",
+		"img": "/img/characters/turtle-people.png",
 		"Complexion": "Hard Green Shell",
 		"Traits": "Don't Like Change",
 		"Location": "Unfinished Car",
@@ -1777,6 +1902,7 @@
 	},
 	{
 		"name": "Ugly Irwin",
+		"img": "/img/characters/ugly-irwin.png",
 		"Species": "Golden Retriever",
 		"Gender": "Male ♂",
 		"Hair Color": "Golden",

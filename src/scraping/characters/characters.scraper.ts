@@ -20,6 +20,10 @@ async function scrapeCharacters() {
     const $ = cheerio.load(html);
 
     const name = $(".pi-title").text();
+    const name_img = $(".pi-title").text().toLocaleLowerCase().split(" ").join(
+      "-",
+    );
+    const img = `/img/characters/${name_img}.png`;
     let friends: string[] = [];
     const d = $(".pi-data").text().split("\n").join(" ").trim().split("\t")
       .filter(Boolean);
@@ -43,6 +47,7 @@ async function scrapeCharacters() {
     const data = [];
     let temp: string[] = [];
     data.push(["name", name]);
+    data.push(["img", img]);
     realdata.forEach((d) => {
       if (flag === 2) {
         data.push(temp);
