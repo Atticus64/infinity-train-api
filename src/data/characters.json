@@ -1,1915 +1,2040 @@
 [
-	{
-		"name": "Alan Dracula",
-		"img": "/img/characters/alan-dracula.png",
-		"Aliases": "DeerSuper Deer (Special Agent Mace)",
-		"Species": "White-tailed Deer denizen",
-		"Gender": "Male ♂",
-		"Age": "Unknown",
-		"Hair Color": "Brown, White, Small Bits of Gray",
-		"Status": "Alive",
-		"Residence": "Infinity Train",
-		"Friends": [
-			"Jesse Cosay",
-			"Lake",
-			"One-One"
-		],
-		"Enemies": [
-			"Agent Sieve",
-			"Agent Mace",
-			"Perry",
-			"Grace",
-			"Simon",
-			"The Apex"
-		],
-		"Occupation": "Deer",
-		"Likes": "GrassLeavesJesseLake",
-		"Dislikes": "Wasteland dirt and sandLoud noisesBeing startledBeing stabled",
-		"First Appearance": "\"The Black Market Car\""
-	},
-	{
-		"name": "Alex",
-		"img": "/img/characters/alex.png",
-		"Species": "Human",
-		"Gender": "Male ♂",
-		"Hair Color": "Blonde",
-		"Complexion": "Light",
-		"Status": "Alive",
-		"Residence": "Infinity Train",
-		"Friends": [
-			"The Apex"
-		],
-		"First Appearance": "\"The Musical Car\"",
-		"Enemies": []
-	},
-	{
-		"name": "Aloysius III",
-		"img": "/img/characters/aloysius-iii.png",
-		"Titles": "Emperor  Unifier",
-		"Species": "Turtle Person",
-		"Gender": "Male ♂",
-		"Status": "Alive",
-		"Residence": "Unfinished Car",
-		"Friends": [
-			"Tulip",
-			"One-One",
-			"Atticus"
-		],
-		"Occupation": "Emperor",
-		"First Appearance": "\"The Unfinished Car\"",
-		"Latest Appearance": "\"The Unfinished Car\"",
-		"Enemies": []
-	},
-	{
-		"name": "Alrick Timmens",
-		"img": "/img/characters/alrick-timmens.png",
-		"Species": "Human",
-		"Gender": "Male ♂",
-		"Age": "Late 20s – Early 30s",
-		"Hair Color": "Blonde",
-		"Eye Color": "Cerulean",
-		"Status": "Deceased",
-		"Residence": "United Kingdom",
-		"Relatives": "Amelia Hughes (fiancée)",
-		"Occupation": "Engineer",
-		"First Appearance": "\"The Past Car\"",
-		"Latest Appearance": "\"The Past Car\"",
-		"Friends": [],
-		"Enemies": []
-	},
-	{
-		"name": "Amelia Hughes",
-		"img": "/img/characters/amelia-hughes.png",
-		"Aliases": "The ConductorThe True Conductor (The Apex)The False Conductor (Grace Monroe)",
-		"Species": "Human",
-		"Gender": "Female ♀",
-		"Age": "Late 60s",
-		"Hair Color": "Brown",
-		"Ethnicity": "United Kingdom",
-		"Status": "Alive",
-		"Residence": "United Kingdom (formerly)Infinity Train (currently)",
-		"Relatives": "Alrick Timmens (fiancé; deceased)Hazel (creation)",
-		"Friends": [
-			"Tulip Olsen",
-			"One-One",
-			"Atticus",
-			"Steward"
-		],
-		"Enemies": [
-			"The Cat",
-			"Simon Laurent"
-		],
-		"First Appearance": "\"The Cat's Car\"",
-		"Latest Appearance": "\"The Origami Car\" (older)\"The Twin Tapes\" (younger)"
-	},
-	{
-		"name": "Andy Olsen",
-		"img": "/img/characters/andy-olsen.png",
-		"Aliases": "Dad",
-		"Species": "Human",
-		"Gender": "Male ♂",
-		"Hair Color": "Brown",
-		"Complexion": "Pale",
-		"Status": "Alive",
-		"Residence": "Megan's Residence (formerly)Unknown (currently)North Branch, Minnesota, United States",
-		"Relatives": "Tulip Olsen (daughter)Megan Olsen (ex-wife)",
-		"First Appearance": "\"The Grid Car\" (pictured and mentioned)",
-		"Latest Appearance": "\"The Engine\"",
-		"Friends": [],
-		"Enemies": []
-	},
-	{
-		"name": "Ant Blacksmith",
-		"img": "/img/characters/ant-blacksmith.png",
-		"Status": "Alive",
-		"Residence": "Old West Car",
-		"First Appearance": "\"The Old West Car\"",
-		"Latest Appearance": "\"The Old West Car\"",
-		"Friends": [],
-		"Enemies": []
-	},
-	{
-		"name": "Atticus",
-		"img": "/img/characters/atticus.png",
-		"Titles": "King of and uniter of the Cardigans and Pembrokes",
-		"Species": "Cardigan Corginia Corgi",
-		"Gender": "Male ♂",
-		"Hair Color": "Golden",
-		"Status": "Alive",
-		"Residence": "Corginia",
-		"Friends": [
-			"Tulip Olsen",
-			"One-One",
-			"King Aloysius III"
-		],
-		"Enemies": [
-			"Steward",
-			"The Cat",
-			"Amelia"
-		],
-		"Occupation": "King",
-		"Likes": "TulipOne-OneBelly rubs",
-		"Dislikes": "WaterSpidersThe Cat",
-		"First Appearance": "Pilot\"The Corgi Car\" (series)",
-		"Latest Appearance": "\"The Black Market Car\" (pictured)"
-	},
-	{
-		"name": "Ballerina Kids",
-		"img": "/img/characters/ballerina-kids.png",
-		"Aliases": "ShaynaChloeTwo Unnamed Girls",
-		"Enemies": [
-			"Grace Monroe"
-		],
-		"First Appearance": "\"The Debutante Ball Car\" (mentioned)",
-		"Friends": []
-	},
-	{
-		"name": "Beehive",
-		"img": "/img/characters/beehive.png",
-		"Titles": "Beehive",
-		"Gender": "Male ♂",
-		"Status": "Alive",
-		"Friends": [
-			"Paco",
-			"Brando",
-			"Spiceman",
-			"Driveway",
-			"Kez",
-			"Ryan Akagi",
-			"Min-Gi Park"
-		],
-		"First Appearance": "The Party Car",
-		"Latest Appearance": "The Party Car",
-		"Enemies": []
-	},
-	{
-		"name": "Beetle Bailiff",
-		"img": "/img/characters/beetle-bailiff.png",
-		"Gender": "Male ♂",
-		"Status": "Alive",
-		"Residence": "Old West Car",
-		"Friends": [
-			"Judge Morpho",
-			"Mantis",
-			"Grasshopper"
-		],
-		"Enemies": [
-			"Ryan Akagi",
-			"Min-Gi ParkKez"
-		],
-		"First Appearance": "\"The Old West Car\"",
-		"Latest Appearance": "\"The Old West Car\""
-	},
-	{
-		"name": "Ben Greene",
-		"img": "/img/characters/ben-greene.png",
-		"Species": "Grape People",
-		"Status": "Alive",
-		"First Appearance": "\"The Green Car\"",
-		"Latest Appearance": "\"The Party Car\"",
-		"Friends": [],
-		"Enemies": []
-	},
-	{
-		"name": "Brando",
-		"img": "/img/characters/brando.png",
-		"Titles": "Brando",
-		"Aliases": "Zoobee",
-		"Gender": "Male ♂",
-		"Status": "Alive",
-		"Friends": [
-			"Paco",
-			"Spiceman",
-			"Beehive",
-			"Driveway",
-			"Kez",
-			"Ryan Akagi",
-			"Min-Gi Park"
-		],
-		"Latest Appearance": "The Party Car",
-		"Enemies": []
-	},
-	{
-		"name": "Bug Cowboys",
-		"img": "/img/characters/bug-cowboys.png",
-		"Complexion": "Variant",
-		"Location": "Old West Car",
-		"Leader": "Caterpillar Sheriff",
-		"Enemies": [],
-		"First Appearance": "The Old West Car",
-		"Friends": []
-	},
-	{
-		"name": "Building Person",
-		"img": "/img/characters/building-person.png",
-		"Race": "Building People",
-		"Gender": "Male",
-		"Status": "Alive",
-		"First Appearance": "\"The Kaiju Car\"",
-		"Friends": [],
-		"Enemies": []
-	},
-	{
-		"name": "Building People",
-		"img": "/img/characters/building-people.png",
-		"Eye Color": "Red",
-		"Complexion": "Brick",
-		"Traits": "Terrible Peripheral Vision",
-		"Location": "Kaiju Car",
-		"First Appearance": "\"The Kaiju Car\"",
-		"Friends": [],
-		"Enemies": []
-	},
-	{
-		"name": "Candy Girl",
-		"img": "/img/characters/candy-girl.png",
-		"Race": "Concession People",
-		"Gender": "Female",
-		"Outfit": "Candy Box",
-		"Friend(s)": "Concession Stand MonsterSoda GirlPopcorn GirlNacho Girl",
-		"First Appearance": "\"The Movie Theater Car\"",
-		"Friends": [],
-		"Enemies": []
-	},
-	{
-		"name": "Carrot People",
-		"img": "/img/characters/carrot-people.png",
-		"Eye Color": "Hollow",
-		"Complexion": "OrangeCarrot Shaped Head",
-		"Hair Color": "Green",
-		"Location": "Carrot Car",
-		"First Appearance": "\"The Black Market Car\"",
-		"Friends": [],
-		"Enemies": []
-	},
-	{
-		"name": "Chandelier",
-		"img": "/img/characters/chandelier.png",
-		"Species": "Denizen (Chandelier)",
-		"Gender": "Male ♂",
-		"Eye Color": "White",
-		"Complexion": "Gold",
-		"Status": "Alive",
-		"Residence": "Debutante Ball Car",
-		"Friends": [
-			"Octopus People"
-		],
-		"Enemies": []
-	},
-	{
-		"name": "Concession People",
-		"img": "/img/characters/concession-people.png",
-		"Location": "Movie Theater Car",
-		"Leader": "Concession Stand Monster",
-		"Enemies": [],
-		"First Appearance": "\"The Movie Theater Car\"",
-		"Friends": []
-	},
-	{
-		"name": "Concession Stand Monster",
-		"img": "/img/characters/concession-stand-monster.png",
-		"Accessories": "Hidden in car itself",
-		"Status": "Alive",
-		"Friend(s)": "Popcorn GirlSoda GirlCandy GirlNacho Girl",
-		"Friends": [],
-		"Enemies": []
-	},
-	{
-		"name": "Corginian Corgis",
-		"img": "/img/characters/corginian-corgis.png",
-		"Location": "Corginia",
-		"Leader": "Atticus",
-		"Allies": "Tulip OlsenOne-OneTurtle PeopleUgly Irwin",
-		"Enemies": [],
-		"First Appearance": "The Corgi Car",
-		"Friends": []
-	},
-	{
-		"name": "Cow Creamer",
-		"img": "/img/characters/cow-creamer.png",
-		"Gender": "Female ♀",
-		"Status": "Alive",
-		"Residence": "Pig Baby Car",
-		"Friends": [
-			"Pig Baby",
-			"Ryan Akagi (currently)Min-Gi Park (currently)Kez (currently)Parka DenizensJudge Morpho (formerly)Nigel"
-		],
-		"Enemies": [
-			"Ryan Akagi",
-			"Min-Gi Park (formerly)Kez (formerly)Judge Morpho (currently)"
-		],
-		"First Appearance": "\"The Pig Baby Car\"",
-		"Latest Appearance": "\"The Train to Nowhere\""
-	},
-	{
-		"name": "Crochet People",
-		"img": "/img/characters/crochet-people.png",
-		"Hair Color": "Pink",
-		"Location": "Doily Car",
-		"First Appearance": "\"The Black Market Car\"",
-		"Friends": [],
-		"Enemies": []
-	},
-	{
-		"name": "Cross-Eyed Ducks",
-		"img": "/img/characters/cross-eyed-ducks.png",
-		"Complexion": "White Feathers",
-		"Traits": "Crossed Eyes",
-		"Location": "Cross-Eyed Ducks Car",
-		"First Appearance": "\"The Corgi Car\"",
-		"Friends": [],
-		"Enemies": []
-	},
-	{
-		"name": "Cubey Denizens",
-		"img": "/img/characters/cubey-denizens.png",
-		"Complexion": "Grey",
-		"Traits": "Rocks",
-		"Location": "Hey Ho Whoa Car",
-		"First Appearance": "\"The Lucky Cat Car\" (mentioned)\"The Hey Ho Whoa Car\"",
-		"Friends": [],
-		"Enemies": []
-	},
-	{
-		"name": "Danny Nougat",
-		"img": "/img/characters/danny-nougat.png",
-		"Species": "Human",
-		"Gender": "Male ♂",
-		"Age": "Adult",
-		"Hair Color": "Dark",
-		"Complexion": "Light",
-		"Status": "Alive",
-		"Relatives": "Unnamed daughter",
-		"Occupation": "Office Manager",
-		"First Appearance": "\"The Tape Car\"",
-		"Friends": [],
-		"Enemies": []
-	},
-	{
-		"name": "Danny Nougat's daughter",
-		"img": "/img/characters/danny-nougat's-daughter.png",
-		"Hair Color": "Brown",
-		"Complexion": "Light",
-		"Relatives": "Danny Nougat",
-		"First Appearance": "\"The Tape Car\"",
-		"Friends": [],
-		"Enemies": []
-	},
-	{
-		"name": "",
-		"img": "/img/characters/.png",
-		"Friends": [],
-		"Enemies": []
-	},
-	{
-		"name": "Docent",
-		"img": "/img/characters/docent.png",
-		"Residence": "Art Gallery Car",
-		"Enemies": [
-			"Min-Gi Park",
-			"Ryan Akagi",
-			"Kez"
-		],
-		"First Appearance": "\"The Art Gallery Car\"",
-		"Friends": []
-	},
-	{
-		"name": "Driveway",
-		"img": "/img/characters/driveway.png",
-		"Titles": "Driveway",
-		"Species": "Cubey Denizen",
-		"Gender": "Male ♂",
-		"Status": "Alive",
-		"Friends": [
-			"Paco",
-			"Brando",
-			"Spiceman",
-			"Beehive",
-			"Kez",
-			"Ryan Akagi",
-			"Min-Gi Park"
-		],
-		"First Appearance": "The Party Car",
-		"Enemies": []
-	},
-	{
-		"name": "Floating Jellyfish",
-		"img": "/img/characters/floating-jellyfish.png",
-		"Traits": "FloatingLuminous",
-		"Location": "Jellyfish Car",
-		"First Appearance": "\"The Black Market Car\"",
-		"Friends": [],
-		"Enemies": []
-	},
-	{
-		"name": "Flying Snakes",
-		"img": "/img/characters/flying-snakes.png",
-		"Eye Color": "Green",
-		"Complexion": "Yellow scales",
-		"Traits": "Flying",
-		"Location": "Flying Snake Car",
-		"First Appearance": "\"The Black Market Car\"",
-		"Friends": [],
-		"Enemies": []
-	},
-	{
-		"name": "Frank",
-		"img": "/img/characters/frank.png",
-		"Species": "Bear",
-		"Gender": "Male ♂",
-		"Hair Color": "Brown",
-		"Friends": [
-			"The Cat"
-		],
-		"Occupation": "Security",
-		"First Appearance": "\"The Lucky Cat Car\"",
-		"Latest Appearance": "\"Le Chat Chalet Car\"",
-		"Enemies": []
-	},
-	{
-		"name": "Fyodor",
-		"img": "/img/characters/fyodor.png",
-		"Titles": "Fyodor",
-		"Aliases": "None",
-		"Gender": "Genderless ø",
-		"Status": "Alive",
-		"Residence": "Cube Car",
-		"Enemies": [
-			"The Apex"
-		],
-		"First Appearance": "The Mall Car",
-		"Friends": []
-	},
-	{
-		"name": "Ghoms",
-		"img": "/img/characters/ghoms.png",
-		"Complexion": "Black",
-		"Traits": "Able to eat soulsAble to flyAggression",
-		"Location": "Wasteland",
-		"First Appearance": "\"The Grid Car\"",
-		"Friends": [],
-		"Enemies": []
-	},
-	{
-		"name": "Giant",
-		"img": "/img/characters/giant.png",
-		"Status": "Alive",
-		"Residence": "Crystal Car",
-		"Occupation": "Gatekeeper",
-		"First Appearance": "\"The Crystal Car\"",
-		"Friends": [],
-		"Enemies": []
-	},
-	{
-		"name": "Grace Monroe",
-		"img": "/img/characters/grace-monroe.png",
-		"Species": "Human",
-		"Gender": "Female ♀",
-		"Age": "18[1]",
-		"Hair Color": "Black",
-		"Complexion": "Dark",
-		"Status": "Alive",
-		"Residence": "The Infinity Train's Mall Car (currently)The Monroe mansion (formerly)",
-		"Relatives": "An unnamed fatherAn unnamed mother",
-		"Friends": [
-			"Simon Laurent",
-			"The Apex",
-			"Hazel",
-			"Jesse Cosay",
-			"Tuba",
-			"Amelia Hughes",
-			"Lucy",
-			"Origami Birds"
-		],
-		"Enemies": [
-			"Samantha",
-			"One-One",
-			"Lake",
-			"Alan Dracula",
-			"Ballerina classmates"
-		],
-		"Likes": "Corn dogsLiving on the trainHelping othersBeing noticed (formerly)Leading the Apex (formerly)Getting her number up (formerly)Rebellious behavior (formerly)Raiding train cars (formerly)Wheeling or tormenting \"Nulls\" (formerly)",
-		"Dislikes": "Being aloneDisappointing others\"Nulls\" (formerly)Her past misdeedsSimon refusing to change.",
-		"First Appearance": "\"The Engine\" (cameo; image only)\"The Lucky Cat Car\" (physical debut)",
-		"Latest Appearance": "\"The New Apex\""
-	},
-	{
-		"name": "Grace's babysitters",
-		"img": "/img/characters/grace's-babysitters.png",
-		"Aliases": "Known Names:JulieMollyJacobSusan",
-		"Occupation": "Grace Monroe's caregivers",
-		"Friends": [],
-		"Enemies": []
-	},
-	{
-		"name": "Mr.Monroe",
-		"img": "/img/characters/mr.monroe.png",
-		"Gender": "Male ♂",
-		"Hair Color": "Dark",
-		"Complexion": "Dark",
-		"Status": "Alive",
-		"Relatives": "An unnamed wifeGrace Monroe (daughter)",
-		"First Appearance": "\"The Debutante Ball Car\" (mentioned)",
-		"Latest Appearance": "\"The Origami Car\" (flashback)",
-		"Friends": [],
-		"Enemies": []
-	},
-	{
-		"name": "Grace's Mother",
-		"img": "/img/characters/grace's-mother.png",
-		"Gender": "Female ♀",
-		"Hair Color": "Dark",
-		"Complexion": "Dark",
-		"Status": "Alive",
-		"Relatives": "An unnamed husbandGrace Monroe (daughter)",
-		"First Appearance": "\"The Debutante Ball Car\" (mentioned)",
-		"Latest Appearance": "\"The Origami Car\" (flashbacks)",
-		"Friends": [],
-		"Enemies": []
-	},
-	{
-		"name": "Grasshopper",
-		"img": "/img/characters/grasshopper.png",
-		"Gender": "Male ♂",
-		"Status": "Alive",
-		"Residence": "Old West Car",
-		"Friends": [
-			"Judge Morpho",
-			"Mantis",
-			"Beetle Bailiff"
-		],
-		"Enemies": [
-			"Ryan Akagi",
-			"Min-Gi ParkKez"
-		],
-		"First Appearance": "\"The Iceberg Car\"",
-		"Latest Appearance": "\"The Old West Car\""
-	},
-	{
-		"name": "Greige",
-		"img": "/img/characters/greige.png",
-		"Aliases": "The Crystal Man",
-		"Complexion": "Greige",
-		"Status": "Alive",
-		"Residence": "Crystal Car",
-		"First Appearance": "\"The Crystal Car\"",
-		"Latest Appearance": "\"The Lucky Cat Car\"",
-		"Friends": [],
-		"Enemies": []
-	},
-	{
-		"name": "Hazel",
-		"img": "/img/characters/hazel.png",
-		"Titles": "Debatable (Amelia)",
-		"Species": "Experimental Humanoid/Turtle Person",
-		"Gender": "Female ♀",
-		"Age": "6 ½",
-		"Hair Color": "Blonde",
-		"Complexion": "Olive (human form)Light green (turtle form)",
-		"Status": "Alive",
-		"Relatives": "Tuba (adoptive mother; deceased)Amelia Hughes (creator)",
-		"Friends": [
-			"Grace",
-			"Simon"
-		],
-		"Enemies": [],
-		"Likes": "Ice creamSnowball fightsDancing",
-		"Dislikes": "Being alone",
-		"First Appearance": "\"The Jungle Car\"",
-		"Latest Appearance": "\"The Origami Car\" (physically)\"The New Apex\" (tape)"
-	},
-	{
-		"name": "Hill Man",
-		"img": "/img/characters/hill-man.png",
-		"Species": "Hill People",
-		"Gender": "Male ♂",
-		"Status": "Alive",
-		"First Appearance": "\"The Hill Car\"",
-		"Friends": [],
-		"Enemies": []
-	},
-	{
-		"name": "Horace",
-		"img": "/img/characters/horace.png",
-		"Titles": "Horace",
-		"Gender": "Male ♂",
-		"Age": "Unknown",
-		"Hair Color": "Gray",
-		"Status": "Alive",
-		"Residence": "Horace's Residence",
-		"First Appearance": "The Twin Tapes",
-		"Latest Appearance": "The Twin Tapes",
-		"Friends": [],
-		"Enemies": []
-	},
-	{
-		"name": "Hot Dog",
-		"img": "/img/characters/hot-dog.png",
-		"Friend(s)": "One-OneLinnette Ramsey-WilkinsonJoe",
-		"Friends": [],
-		"Enemies": []
-	},
-	{
-		"name": "Insect Denizens",
-		"img": "/img/characters/insect-denizens.png",
-		"Eye Color": "Variant",
-		"Complexion": "Variant",
-		"Traits": "Variant",
-		"Location": "Old West Car",
-		"Leader": "Judge Morpho (possibility)",
-		"Enemies": [],
-		"First Appearance": "The Old West Car",
-		"Friends": []
-	},
-	{
-		"name": "Jeremy Bradford",
-		"img": "/img/characters/jeremy-bradford.png",
-		"Gender": "Male ♂",
-		"Status": "Alive",
-		"Residence": "Mega Maze Car (formerly; current residence unknown)",
-		"Relatives": "Sandra Bradford (sister; deceased)Unnamed mother (mother; deceased)",
-		"Likes": "Hats",
-		"First Appearance": "\"The Old West Car\" (picture only)",
-		"Friends": [],
-		"Enemies": []
-	},
-	{
-		"name": "Jesse Cosay",
-		"img": "/img/characters/jesse-cosay.png",
-		"Titles": "CasanovaDing Dong (Lake)Tomcat (The Cat)",
-		"Species": "Human",
-		"Gender": "Male ♂",
-		"Age": "14-15[1]",
-		"Hair Color": "Dark",
-		"Ethnicity": "Apache",
-		"Status": "Alive",
-		"Residence": "Infinity Train (formerly)Arizona (currently)",
-		"Relatives": "Mrs. Cosay (mother)Mr. Cosay (father)Nate Cosay (younger brother)",
-		"Friends": [
-			"Lake",
-			"Alan Dracula",
-			"Grace Monroe",
-			"Simon Laurent"
-		],
-		"Enemies": [
-			"Agent Sieve",
-			"Agent Mace",
-			"The Apex"
-		],
-		"Likes": "The name \"Dracula\"Taking pictures of animals wearing sunglassesSingingMaking friendsFreestyle swimming",
-		"Dislikes": "Lake's hostilityConflictDisputesThe \"Flecks\"The Apex ideology",
-		"First Appearance": "\"The Black Market Car\"",
-		"Latest Appearance": "\"The Number Car\" (latest physical appearance)\"The New Apex\" (cameo; image only)"
-	},
-	{
-		"name": "Mr. Cosay",
-		"img": "/img/characters/mr.-cosay.png",
-		"Alias": "Dad",
-		"Gender": "Male",
-		"Age": "Late 30s to 40s",
-		"Outfit": "Red and White Baseball Cap",
-		"Hair": "Black",
-		"Status": "Alive",
-		"Relatives(s)": "Jesse Cosay (oldest son)Nathan Cosay (youngest son)Mrs. Cosay (wife)",
-		"Friends": [],
-		"Enemies": []
-	},
-	{
-		"name": "Jesse's Friends",
-		"img": "/img/characters/jesse's-friends.png",
-		"Aliases": "Known \"friends\":Troy Banks (Scott Menville)Bully #1 (Scott Menville)Bully #2 (Robbie Daymond)Bully #3 (Owen Dennis)",
-		"Residence": "Arizona, United States",
-		"Friends": [
-			"Jesse Cosay"
-		],
-		"First Appearance": "The Family Tree Car (mentioned)",
-		"Enemies": []
-	},
-	{
-		"name": "Mrs. Cosay",
-		"img": "/img/characters/mrs.-cosay.png",
-		"Alias": "Mom",
-		"Gender": "Female",
-		"Age": "Late 30s to 40s",
-		"Hair": "Black",
-		"Status": "Alive",
-		"Relatives(s)": "Jesse (oldest son)Nathan (youngest son)Mr. Cosay (husband)",
-		"Friends": [],
-		"Enemies": []
-	},
-	{
-		"name": "Joe",
-		"img": "/img/characters/joe.png",
-		"Friend(s)": "One-OneLinnette Ramsey-WilkinsonHot Dog",
-		"Friends": [],
-		"Enemies": []
-	},
-	{
-		"name": "Judge Morpho",
-		"img": "/img/characters/judge-morpho.png",
-		"Aliases": "Caterpillar Sheriff",
-		"Species": "Butterfly",
-		"Gender": "Female ♀",
-		"Status": "Unknown (possibly deceased)",
-		"Residence": "Old West Car",
-		"Friends": [
-			"Grasshopper",
-			"Mantis",
-			"Beetle Bailiff",
-			"Parka Denizens",
-			"Cow Creamer",
-			"Pig Baby",
-			"Nigel"
-		],
-		"Enemies": [
-			"Ryan Akagi",
-			"Min-Gi Park",
-			"Kez"
-		],
-		"Occupation": "JudgeSheriff (formerly)",
-		"First Appearance": "\"The Iceberg Car\"",
-		"Latest Appearance": "\"The Train to Nowhere\""
-	},
-	{
-		"name": "Kaiju Monsters",
-		"img": "/img/characters/kaiju-monsters.png",
-		"Eye Color": "Black (Pterodactyl monster)Yellow (Flying shark monster)",
-		"Complexion": "Yellow (Pterodactyl monster)Dark grey and grayish blue (Flying shark monster)",
-		"Residence": "Kaiju Car",
-		"Enemies": [],
-		"First Appearance": "\"The Kaiju Car\"",
-		"Friends": []
-	},
-	{
-		"name": "Kevin",
-		"img": "/img/characters/kevin.png",
-		"Race": "Turtle Person",
-		"Gender": "Male",
-		"Outfit": "JacketBlue Necktie",
-		"Relatives(s)": "Mail Lady (wife)Kevin Jr (son)",
-		"Friend(s)": "Aloysius",
-		"First Appearance": "\"The Unfinished Car\"",
-		"Friends": [],
-		"Enemies": []
-	},
-	{
-		"name": "Kez",
-		"img": "/img/characters/kez.png",
-		"Aliases": "Cactus Kez (Bug Cowboys)LorraineButter Kez (Cow Creamer)",
-		"Species": "Concierge Bell denizen",
-		"Friends": [
-			"Ryan Akagi",
-			"Min-Gi Park",
-			"Jeremy Bradford",
-			"Morgan",
-			"Samantha",
-			"Paco",
-			"Brando",
-			"Spiceman",
-			"Beehive",
-			"Driveway",
-			"Parka Denizens",
-			"Pig Baby",
-			"Nigel"
-		],
-		"Enemies": [
-			"Judge Morpho",
-			"Docent",
-			"Beetle Bailiff",
-			"Grasshopper"
-		],
-		"First Appearance": "\"The Twin Tapes\"",
-		"Latest Appearance": "\"The Train to Nowhere\""
-	},
-	{
-		"name": "Khaki Bottoms",
-		"img": "/img/characters/khaki-bottoms.png",
-		"Species": "Stuffed Toy Rabbit",
-		"Gender": "Male ♂",
-		"Complexion": "Teal Cloth",
-		"Status": "Alive",
-		"Residence": "Ball Pit Car (formerly)Lucky Cat Car (currently)",
-		"Friends": [
-			"Tulip",
-			"One-One",
-			"Atticus"
-		],
-		"First Appearance": "\"The Ball Pit Car\"",
-		"Latest Appearance": "\"The Lucky Cat Car\"",
-		"Enemies": []
-	},
-	{
-		"name": "Lake",
-		"img": "/img/characters/lake.png",
-		"Aliases": "Mirror TulipM.T.GambitChrome Girl",
-		"Species": "Cracked Reflection",
-		"Gender": "Female ♀",
-		"Age": "13 (physically)",
-		"Hair Color": "Chrome",
-		"Eye Color": "Chrome",
-		"Complexion": "Chrome",
-		"Status": "Alive",
-		"Residence": "Chrome Car, later mobile throughout the Infinity Train (formerly)Arizona (currently)",
-		"Relatives": "Tulip Olsen (Prime)",
-		"Friends": [
-			"Tulip",
-			"One-One",
-			"Atticus",
-			"Jesse Cosay",
-			"Alan Dracula",
-			"Nathan"
-		],
-		"Enemies": [
-			"Agent Sieve",
-			"Agent Mace",
-			"Grace Monroe",
-			"Simon Laurent",
-			"The Apex"
-		],
-		"Occupation": "Tulip's reflection (formerly)",
-		"Goal": "Make her own identity and escape the Infinity Train (Both succeeded)",
-		"Likes": "ExploringReflective Surfaces off the trainAnimalsFreedom",
-		"Dislikes": "OnionsCodingReflective Surfaces on the train (formerly)Nicknames",
-		"First Appearance": "Pilot\"The Grid Car\" (series; cameo)\"The Chrome Car\" (series; official debut)",
-		"Latest Appearance": "\"The Number Car\" (latest physical appearance)\"The New Apex\" (cameo; image only)"
-	},
-	{
-		"name": "Lava Mole",
-		"img": "/img/characters/lava-mole.png",
-		"Race": "Molten Mole",
-		"Gender": "Male",
-		"Status": "Alive",
-		"Friends": [],
-		"Enemies": []
-	},
-	{
-		"name": "Lindsay",
-		"img": "/img/characters/lindsay.png",
-		"Gender": "Female ♀",
-		"Hair Color": "Brown",
-		"Status": "Alive",
-		"Residence": "Infinity Train",
-		"Friends": [
-			"The Apex"
-		],
-		"Occupation": "Member of The Apex",
-		"First Appearance": "\"The Musical Car\"",
-		"Enemies": []
-	},
-	{
-		"name": "Linnette Ramsey-Wilkinson",
-		"img": "/img/characters/linnette-ramsey-wilkinson.png",
-		"Friend(s)": "One-OneJoeHot Dog",
-		"Friends": [],
-		"Enemies": []
-	},
-	{
-		"name": "Louise",
-		"img": "/img/characters/louise.png",
-		"Gender": "Unknown ?",
-		"Hair Color": "Unknown",
-		"Status": "Alive",
-		"Occupation": "Member of The Apex",
-		"First Appearance": "The Debutante Ball Car (mentioned)",
-		"Friends": [],
-		"Enemies": []
-	},
-	{
-		"name": "Lucy",
-		"img": "/img/characters/lucy.png",
-		"Species": "Human",
-		"Gender": "Female ♀",
-		"Hair Color": "Brown",
-		"Status": "Alive",
-		"Residence": "Mall Car",
-		"Friends": [
-			"Mall Car",
-			"Grace Monroe",
-			"Simon Laurent"
-		],
-		"Enemies": [
-			"Ghoms"
-		],
-		"Occupation": "Member of The Apex (formerly)",
-		"First Appearance": "\"The Mall Car\" (background cameo)\"The Musical Car\""
-	},
-	{
-		"name": "Agent Mace",
-		"img": "/img/characters/agent-mace.png",
-		"Gender": "Male ♂",
-		"Complexion": "Metallic with \"skins\"",
-		"Status": "Deceased",
-		"Residence": "Chrome Car",
-		"Friends": [
-			"Agent Sieve"
-		],
-		"Enemies": [
-			"Lake",
-			"Tulip Olsen",
-			"One-One",
-			"Atticus",
-			"Jesse Cosay",
-			"Alan Dracula"
-		],
-		"Occupation": "Reflection Police",
-		"First Appearance": "\"The Chrome Car\"",
-		"Latest Appearance": "\"The Wasteland\" (death)"
-	},
-	{
-		"name": "Mail Lady",
-		"img": "/img/characters/mail-lady.png",
-		"Species": "Turtle Person",
-		"Gender": "Female ♀",
-		"Residence": "Unfinished Car",
-		"Relatives": "KevinKevin Jr.",
-		"Friends": [
-			"Aloysius"
-		],
-		"Enemies": [
-			"The Apex"
-		],
-		"Occupation": "Mail Carrier",
-		"First Appearance": "\"The Unfinished Car\"",
-		"Latest Appearance": "\"The Musical Car\""
-	},
-	{
-		"name": "Mantis",
-		"img": "/img/characters/mantis.png",
-		"Gender": "Male ♂",
-		"Status": "Alive",
-		"Residence": "Old West Car",
-		"Friends": [
-			"Judge Morpho",
-			"Grasshopper",
-			"Beetle Bailiff"
-		],
-		"Enemies": [
-			"Ryan Akagi",
-			"Min-Gi ParkKez"
-		],
-		"First Appearance": "\"The Iceberg Car\"",
-		"Latest Appearance": "\"The Old West Car\""
-	},
-	{
-		"name": "Marcel",
-		"img": "/img/characters/marcel.png",
-		"Aliases": "The Wind",
-		"Status": "Deceased",
-		"Enemies": [
-			"Jesse Cosay",
-			"LakeAlan Dracula"
-		],
-		"First Appearance": "The Map Car",
-		"Latest Appearance": "The Map Car",
-		"Friends": []
-	},
-	{
-		"name": "Masked Monsters",
-		"img": "/img/characters/masked-monsters.png",
-		"Complexion": "Varies",
-		"Traits": "Masks",
-		"Location": "Monster Dance Car",
-		"First Appearance": "\"The Corgi Car\"",
-		"Friends": [],
-		"Enemies": []
-	},
-	{
-		"name": "Megan Olsen",
-		"img": "/img/characters/megan-olsen.png",
-		"Species": "Human",
-		"Gender": "Female ♀",
-		"Hair Color": "Blonde",
-		"Complexion": "Pale",
-		"Status": "Alive",
-		"Residence": "(Megan's Residence) North Branch, Minnesota, United States",
-		"Relatives": "Tulip Olsen (daughter)Andy Olsen (ex-husband)",
-		"First Appearance": "\"The Grid Car\"",
-		"Latest Appearance": "\"The Engine\"",
-		"Friends": [],
-		"Enemies": []
-	},
-	{
-		"name": "Mermaids",
-		"img": "/img/characters/mermaids.png",
-		"Eye Color": "Black",
-		"Complexion": "White",
-		"Hair Color": "Varies",
-		"Location": "Map Car",
-		"First Appearance": "\"The Map Car\"",
-		"Friends": [],
-		"Enemies": []
-	},
-	{
-		"name": "Messenger Corgi",
-		"img": "/img/characters/messenger-corgi.png",
-		"Titles": "Messenger (possibly)",
-		"Species": "Corgi",
-		"Gender": "Male ♂",
-		"Hair Color": "Golden and Brown",
-		"Status": "Alive",
-		"Residence": "Corginia",
-		"Friends": [
-			"Atticus"
-		],
-		"Enemies": [
-			"Steward"
-		],
-		"Occupation": "Messenger (possibly)",
-		"First Appearance": "Pilot"
-	},
-	{
-		"name": "Mikayla",
-		"img": "/img/characters/mikayla.png",
-		"Species": "Human",
-		"Gender": "Female ♀",
-		"Age": "13",
-		"Hair Color": "Dark Brown",
-		"Status": "Alive",
-		"Residence": "North Branch, Minnesota",
-		"Friends": [
-			"Tulip Olsen"
-		],
-		"Occupation": "Middle School Student",
-		"Likes": "Tulip's video game",
-		"Dislikes": "OnionsVideo Games (in general)",
-		"First Appearance": "\"The Grid Car\"",
-		"Latest Appearance": "\"The Cat's Car\"",
-		"Enemies": []
-	},
-	{
-		"name": "Mildred the Tyrannosaur",
-		"img": "/img/characters/mildred-the-tyrannosaur.png",
-		"Species": "Tyrannosaurus rex",
-		"Status": "Alive",
-		"Residence": "Dinosaur Baseball Car",
-		"Friends": [
-			"Tulip",
-			"One-One",
-			"Atticus"
-		],
-		"Likes": "Baseball",
-		"First Appearance": "\"The Cat's Car\"",
-		"Enemies": []
-	},
-	{
-		"name": "Min-Gi Park",
-		"img": "/img/characters/min-gi-park.png",
-		"Species": "Human",
-		"Gender": "Male ♂",
-		"Age": "18",
-		"Hair Color": "Black",
-		"Status": "Alive",
-		"Residence": "Powell Lake, British Columbia, Canada",
-		"Relatives": "Mr. Park (father)Mrs. Park (mother)",
-		"Friends": [
-			"Ryan Akagi",
-			"Kez",
-			"Samantha",
-			"Paco",
-			"Brando",
-			"Spiceman",
-			"Beehive",
-			"Driveway",
-			"Parka Denizens",
-			"Pig Baby",
-			"Cow Creamer",
-			"Nigel"
-		],
-		"Enemies": [
-			"Judge Morpho",
-			"Beetle Bailiff",
-			"Grasshopper",
-			"Docent"
-		],
-		"Occupation": "Shift manager at Dumpty's Diner (formerly)Musician",
-		"First Appearance": "Book Four - Duet"
-	},
-	{
-		"name": "Min-Gi's Father",
-		"img": "/img/characters/min-gi's-father.png",
-		"Gender": "Male ♂",
-		"Status": "Alive",
-		"Residence": "Powell Lake, British Columbia, Canada",
-		"Relatives": "Mrs. Park (wife)Min-Gi Park (son)",
-		"First Appearance": "\"The Twin Tapes\"",
-		"Latest Appearance": "\"The Twin Tapes\"",
-		"Friends": [],
-		"Enemies": []
-	},
-	{
-		"name": "Min-Gi's Mother",
-		"img": "/img/characters/min-gi's-mother.png",
-		"Gender": "Female ♀",
-		"Status": "Alive",
-		"Residence": "Powell Lake, British Columbia, Canada",
-		"Relatives": "Mr. Park (husband)Min-Gi Park (son)",
-		"First Appearance": "\"The Twin Tapes\"",
-		"Latest Appearance": "\"The Twin Tapes\"",
-		"Friends": [],
-		"Enemies": []
-	},
-	{
-		"name": "Dolphin HandlerHarry The Bike GuyMirror OneMirror AtticusMirror MedicsFemale TeacherMale TeacherAlexBugelLouiseHoraceThe AnnouncerTeen Fan",
-		"img": "/img/characters/dolphin-handlerharry-the-bike-guymirror-onemirror-atticusmirror-medicsfemale-teachermale-teacheralexbugellouisehoracethe-announcerteen-fan.png",
-		"Titles": "Horace",
-		"Species": "Human",
-		"Gender": "Female ♀",
-		"Age": "Unknown",
-		"Hair Color": "Brown",
-		"Status": "Alive",
-		"First Appearance": "The Train to Nowhere",
-		"Latest Appearance": "The Train to Nowhere",
-		"Voiced By": "Niki Yang",
-		"Residence": "Horace's Residence",
-		"Occupation": "Announcer",
-		"Dislikes": "Atticus' Bark",
-		"Complexion": "Light",
-		"Friends": [
-			"The Apex"
-		],
-		"Relatives": "Tuba (mother)",
-		"Enemies": []
-	},
-	{
-		"name": "Mirror Atticus",
-		"img": "/img/characters/mirror-atticus.png",
-		"Gender": "Male ♂",
-		"Hair Color": "Golden",
-		"Status": "Alive",
-		"Residence": "Chrome Car",
-		"Occupation": "Atticus' Reflection",
-		"Dislikes": "Atticus' Bark",
-		"First Appearance": "\"The Chrome Car\"",
-		"Friends": [],
-		"Enemies": []
-	},
-	{
-		"name": "Mirror Medics",
-		"img": "/img/characters/mirror-medics.png",
-		"Gender": "Genderless ø",
-		"Residence": "Chrome Car",
-		"Occupation": "Medical Assistance",
-		"First Appearance": "\"The Chrome Car\"",
-		"Friends": [],
-		"Enemies": []
-	},
-	{
-		"name": "Mirror One",
-		"img": "/img/characters/mirror-one.png",
-		"Gender": "Genderless ø",
-		"Status": "Alive",
-		"Residence": "Chrome Car",
-		"Occupation": "One-One's Reflection",
-		"First Appearance": "\"The Chrome Car\"",
-		"Friends": [],
-		"Enemies": []
-	},
-	{
-		"name": "Morgan",
-		"img": "/img/characters/morgan.png",
-		"Status": "Alive",
-		"Friends": [
-			"Jeremy Bradford",
-			"Kez"
-		],
-		"Enemies": [
-			"Kez"
-		],
-		"First Appearance": "\"The Old West Car\" (picture only)\"The Mega Maze Car\"",
-		"Latest Appearance": "\"The Train to Nowhere\""
-	},
-	{
-		"name": "Mrs. Graham",
-		"img": "/img/characters/mrs.-graham.png",
-		"Sex": "Female",
-		"Age": "Late 40s - Early 60s",
-		"Species": "Human",
-		"Hair": "Brown",
-		"Friends": [],
-		"Enemies": []
-	},
-	{
-		"name": "Musical Denizens",
-		"img": "/img/characters/musical-denizens.png",
-		"Location": "Musical Car",
-		"Known members": "Comedy Mask (Keith Ferguson)Tragedy Mask (Kyle McCarley)4 Glove DenizensPlaybill (Kyle McCarley)Spotlight (Kyle McCarley)Stage Light DenizensHand FanOpera GlassesScript",
-		"Allies": "Jesse Cosay",
-		"Enemies": [],
-		"Friends": []
-	},
-	{
-		"name": "Nacho Girl",
-		"img": "/img/characters/nacho-girl.png",
-		"Race": "Concession People",
-		"Gender": "Female",
-		"Outfit": "Nacho Container",
-		"Friend(s)": "Concession Stand MonsterSoda GirlCandy GirlPopcorn Girl",
-		"First Appearance": "\"The Movie Theater Car\"",
-		"Friends": [],
-		"Enemies": []
-	},
-	{
-		"name": "Nancy",
-		"img": "/img/characters/nancy.png",
-		"Gender": "Female ♀",
-		"Status": "Alive",
-		"Residence": "Straight-Up Italy Car",
-		"Occupation": "CookBusiness Owner",
-		"First Appearance": "\"The Crystal Car\"",
-		"Latest Appearance": "\"The Lucky Cat Car\"",
-		"Friends": [],
-		"Enemies": []
-	},
-	{
-		"name": "Nate Cosay",
-		"img": "/img/characters/nate-cosay.png",
-		"Gender": "Male ♂",
-		"Age": "8 to 12",
-		"Hair Color": "Black",
-		"Ethnicity": "Apache",
-		"Status": "Alive",
-		"Relatives": "Jesse Cosay (older brother)An unnamed fatherAn unnamed mother",
-		"Friends": [
-			"Lake"
-		],
-		"First Appearance": "\"The Toad Car\"",
-		"Latest Appearance": "\"The Number Car\"",
-		"Enemies": []
-	},
-	{
-		"name": "Nigel",
-		"img": "/img/characters/nigel.png",
-		"Species": "Astro Queue Denizens",
-		"Gender": "Male ♂",
-		"Status": "Alive",
-		"Residence": "Astro Queue Car",
-		"Relatives": "14 unidentified children",
-		"Friends": [
-			"Ryan Akagi",
-			"Min-Gi Park",
-			"Kez",
-			"Parka Denizens",
-			"Pig Baby",
-			"Cow Creamer",
-			"Judge Morpho"
-		],
-		"Enemies": [],
-		"First Appearance": "\"The Astro Queue Car\""
-	},
-	{
-		"name": "Octopus People",
-		"img": "/img/characters/octopus-people.png",
-		"Eye Color": "Variant",
-		"Complexion": "Variant",
-		"Location": "Debutante Ball Car",
-		"Allies": "Chandelier",
-		"First Appearance": "The Debutante Ball Car",
-		"Friends": [],
-		"Enemies": []
-	},
-	{
-		"name": "One-One",
-		"img": "/img/characters/one-one.png",
-		"Titles": "Ball (The Cat)The False Conductor (The Apex)Little Peanut (Amelia Hughes)",
-		"Aliases": "Glad-OneSad-OneOne",
-		"Species": "Robot",
-		"Status": "Alive",
-		"Residence": "Infinity Train",
-		"Relatives": "Infinity Train (\"mother\")",
-		"Friends": [
-			"Tulip Olsen",
-			"Atticus",
-			"Randall",
-			"Greige",
-			"Nancy",
-			"Khaki Bottoms",
-			"Lake",
-			"Jesse Cosay",
-			"Alan Dracula",
-			"Steward",
-			"Porters"
-		],
-		"Enemies": [
-			"Ghoms",
-			"Special Agent Mace",
-			"Agent Sieve"
-		],
-		"First Appearance": "Pilot\"The Grid Car\" (series)",
-		"Latest Appearance": "\"The Twin Tapes\""
-	},
-	{
-		"name": "Origami Birds",
-		"img": "/img/characters/origami-birds.png",
-		"Complexion": "Paper",
-		"Residence": "Origami Car",
-		"Friends": [],
-		"Enemies": [],
-		"First Appearance": "\"The Origami Car\""
-	},
-	{
-		"name": "Paco",
-		"img": "/img/characters/paco.png",
-		"Species": "Chicken",
-		"Gender": "Male ♂",
-		"Status": "Alive",
-		"Friends": [
-			"Brando",
-			"Spiceman",
-			"Beehive",
-			"Driveway",
-			"Kez",
-			"Ryan Akagi",
-			"Min-Gi Park"
-		],
-		"First Appearance": "The Party Car",
-		"Enemies": []
-	},
-	{
-		"name": "Parka Denizens",
-		"img": "/img/characters/parka-denizens.png",
-		"Status": "Alive",
-		"Residence": "Iceberg Car",
-		"Friends": [
-			"Ryan Akagi",
-			"Min-Gi Park",
-			"Kez",
-			"Judge Morpho",
-			"Pig Baby",
-			"Cow Creamer",
-			"Nigel"
-		],
-		"Enemies": [],
-		"First Appearance": "\"The Iceberg Car\"",
-		"Latest Appearance": "\"The Train to Nowhere\""
-	},
-	{
-		"name": "",
-		"img": "/img/characters/.png",
-		"Friends": [],
-		"Enemies": []
-	},
-	{
-		"name": "Pencil People",
-		"img": "/img/characters/pencil-people.png",
-		"Complexion": "Pencil Body",
-		"Location": "Pencil Bank Car",
-		"First Appearance": "\"The Chrome Car\"",
-		"Friends": [],
-		"Enemies": []
-	},
-	{
-		"name": "Perry",
-		"img": "/img/characters/perry.png",
-		"Species": "Parasite",
-		"Gender": "Male ♂",
-		"Complexion": "Green",
-		"Status": "Alive",
-		"Friends": [
-			"Lake",
-			"Jesse Cosay",
-			"Alan Dracula"
-		],
-		"Likes": "Controlling Alan Dracula's body",
-		"First Appearance": "\"The Parasite Car\"",
-		"Latest Appearance": "\"The Parasite Car\"",
-		"Enemies": []
-	},
-	{
-		"name": "Pig Baby",
-		"img": "/img/characters/pig-baby.png",
-		"Gender": "Male ♂",
-		"Status": "Alive",
-		"Friends": [
-			"Cow Creamer",
-			"Ryan Akagi",
-			"Min-Gi Park",
-			"Kez",
-			"Parka Denizens",
-			"Judge Morpho",
-			"Nigel"
-		],
-		"Enemies": [],
-		"Likes": "Food",
-		"First Appearance": "\"The Pig Baby Car\"",
-		"Latest Appearance": "\"The Train to Nowhere\""
-	},
-	{
-		"name": "Popcorn Girl",
-		"img": "/img/characters/popcorn-girl.png",
-		"Race": "Concession People",
-		"Gender": "Female",
-		"Outfit": "Popcorn Bag",
-		"Friend(s)": "Concession Stand MonsterSoda GirlCandy GirlNacho Girl",
-		"First Appearance": "\"The Movie Theater Car\"",
-		"Friends": [],
-		"Enemies": []
-	},
-	{
-		"name": "Porters",
-		"img": "/img/characters/porters.png",
-		"Name": "Porters",
-		"Sex": "Genderless",
-		"Species": "Robot",
-		"Friends": [],
-		"Enemies": []
-	},
-	{
-		"name": "Rabbit Dwarfs",
-		"img": "/img/characters/rabbit-dwarfs.png",
-		"Hair Color": "Grey",
-		"Traits": "Fighters",
-		"Location": "Metal Workshop Car",
-		"Enemies": [],
-		"First Appearance": "\"The Black Market Car\"",
-		"Friends": []
-	},
-	{
-		"name": "Randall",
-		"img": "/img/characters/randall.png",
-		"Aliases": "Randall Slip-in-the-Cracks Randall",
-		"Species": "Randall; Water Denizen",
-		"Gender": "Male ♂",
-		"Status": "Alive",
-		"Residence": "Beach Car (native)Chat Chalet Car (currently; imported)Ball Pit Car (formerly; display)Lucky Cat Car (formerly; migrant worker)",
-		"Occupation": "Entrepreneur",
-		"Likes": "Teamwork",
-		"First Appearance": "\"The Beach Car\"",
-		"Latest Appearance": "\"Le Chat Chalet Car\"",
-		"Friends": [],
-		"Enemies": []
-	},
-	{
-		"name": "Roy",
-		"img": "/img/characters/roy.png",
-		"Species": "Denizen (Clock)",
-		"Gender": "Male ♂",
-		"Complexion": "Various Colors",
-		"Status": "Alive",
-		"Residence": "Color Clock Car",
-		"First Appearance": "\"The Color Clock Car\"",
-		"Friends": [],
-		"Enemies": []
-	},
-	{
-		"name": "Ryan Akagi",
-		"img": "/img/characters/ryan-akagi.png",
-		"Gender": "Male ♂",
-		"Age": "18",
-		"Hair Color": "Dark Brown",
-		"Status": "Alive",
-		"Residence": "Powell Lake, British Columbia, Canada",
-		"Relatives": "Mr. Akagi (father)Mrs. Akagi (mother)Four unnamed siblings:Two unnamed younger brothersTwo unnamed older sisters",
-		"Friends": [
-			"Min-Gi Park",
-			"Kez",
-			"Samantha",
-			"Paco",
-			"Brando",
-			"Spiceman",
-			"Beehive",
-			"Driveway",
-			"Parka Denizens",
-			"Pig Baby",
-			"Cow Creamer",
-			"Nigel"
-		],
-		"Enemies": [
-			"Judge Morpho",
-			"Beetle Bailiff",
-			"Grasshopper",
-			"Docent"
-		],
-		"Occupation": "Musician",
-		"First Appearance": "Book Four - Duet"
-	},
-	{
-		"name": "Ryan's Ex-Girlfriends",
-		"img": "/img/characters/ryan's-ex-girlfriends.png",
-		"Aliases": "Disco GirlfriendPunk GirlfriendEarthy Girlfriend",
-		"Gender": "Female ♀",
-		"Friends": [
-			"Ryan Akagi"
-		],
-		"First Appearance": "The Twin Tapes",
-		"Enemies": []
-	},
-	{
-		"name": "Ryan's Father",
-		"img": "/img/characters/ryan's-father.png",
-		"Gender": "Male ♂",
-		"Status": "Alive",
-		"Residence": "Powell Lake, British Columbia, Canada",
-		"Relatives": "Mrs. Akagi (wife)Ryan Akagi (son)Four unnamed children:Ryan's older sister 1Ryan's older sister 2Ryan's younger brother 1Ryan's younger brother 2",
-		"First Appearance": "\"The Twin Tapes\"",
-		"Latest Appearance": "\"The Twin Tapes\"",
-		"Friends": [],
-		"Enemies": []
-	},
-	{
-		"name": "Ryan's Mother",
-		"img": "/img/characters/ryan's-mother.png",
-		"Gender": "Female ♀",
-		"Status": "Alive",
-		"Residence": "Powell Lake, British Columbia, Canada",
-		"Relatives": "Mr. Akagi (husband)Ryan Akagi (son)Four unnamed children:Ryan's older sister 1Ryan's older sister 2Ryan's younger brother 1Ryan's younger brother 2",
-		"First Appearance": "\"The Twin Tapes\"",
-		"Friends": [],
-		"Enemies": []
-	},
-	{
-		"name": "Ryan's Siblings",
-		"img": "/img/characters/ryan's-siblings.png",
-		"Aliases": "Ryan's Sister (Naia Yoshida)Ryan's Other SisterRyan's Brother #1 (Izaac Wang)Ryan's Brother #2 (Nick Kishiyama)",
-		"Ethnicity": "Japanese",
-		"Residence": "Powell River, British Columbia, Canada",
-		"Relatives": "Ryan AkagiRyan's FatherRyan's Mother",
-		"Friends": [],
-		"Enemies": []
-	},
-	{
-		"name": "Sashay",
-		"img": "/img/characters/sashay.png",
-		"Gender": "Female ♀",
-		"Hair Color": "Purple",
-		"Complexion": "Indigo",
-		"Status": "Alive",
-		"Residence": "Runway Car",
-		"Friends": [
-			"Jesse",
-			"Lake",
-			"Alan Dracula"
-		],
-		"Occupation": "Fashion show director",
-		"Likes": "Fashion",
-		"First Appearance": "\"The Parasite Car\"",
-		"Latest Appearance": "\"The Parasite Car\"",
-		"Enemies": []
-	},
-	{
-		"name": "Sea serpent",
-		"img": "/img/characters/sea-serpent.png",
-		"Species": "Sea serpent",
-		"Gender": "Genderless ø",
-		"Eye Color": "Black with yellow sclera",
-		"Complexion": "Red scales",
-		"Residence": "Map Car",
-		"Enemies": [
-			"Marcel"
-		],
-		"First Appearance": "\"The Map Car\"",
-		"Friends": []
-	},
-	{
-		"name": "Agent Sieve",
-		"img": "/img/characters/agent-sieve.png",
-		"Gender": "Male ♂",
-		"Complexion": "Metallic with \"skins\"",
-		"Status": "Deceased",
-		"Residence": "Chrome Car",
-		"Friends": [
-			"Special Agent Mace"
-		],
-		"Enemies": [
-			"Lake",
-			"Tulip Olsen",
-			"One-One",
-			"Atticus",
-			"Jesse Cosay",
-			"Alan Dracula"
-		],
-		"Occupation": "Reflection Police",
-		"First Appearance": "\"The Chrome Car\"",
-		"Latest Appearance": "\"The Number Car\" (death)"
-	},
-	{
-		"name": "Simon Laurent",
-		"img": "/img/characters/simon-laurent.png",
-		"Aliases": "Socks and SandalsChef's hatPonytail (Grace)Short Pants (Amelia)",
-		"Species": "Human",
-		"Gender": "Male ♂",
-		"Age": "18[1]",
-		"Hair Color": "Blonde",
-		"Complexion": "Fair",
-		"Status": "Deceased",
-		"Residence": "Mall Car (ultimately; original residence unknown)",
-		"Relatives": "An unnamed motherThe Cat (former caretaker)",
-		"Friends": [
-			"The Apex",
-			"Samantha",
-			"Jesse Cosay",
-			"Lucy"
-		],
-		"Enemies": [
-			"Lake",
-			"Alan Dracula",
-			"One-One",
-			"Tuba",
-			"Amelia Hughes",
-			"Hazel"
-		],
-		"Occupation": "Second-in-command, Final Leader of The Apex (formerly)",
-		"Likes": "Getting his number upLiving on the trainRebellious behaviorMaking miniature figurinesWriting fantasy novels",
-		"Dislikes": "\"Nulls\"Being called a childGohmsBeing reminded of his past with SamanthaBeing lied to",
-		"First Appearance": "\"The Engine\" (cameo; image only)\"The Mall Car\" (physical debut)",
-		"Latest Appearance": "\"The New Apex\" (death)"
-	},
-	{
-		"name": "Slug People",
-		"img": "/img/characters/slug-people.png",
-		"Traits": "Shady",
-		"Location": "Black Market Car",
-		"First Appearance": "\"The Black Market Car\"",
-		"Friends": [],
-		"Enemies": []
-	},
-	{
-		"name": "Soda Girl",
-		"img": "/img/characters/soda-girl.png",
-		"Race": "Concession People",
-		"Gender": "Female",
-		"Outfit": "Soda Cup",
-		"Friend(s)": "Concession Stand MonsterPopcorn GirlCandy GirlNacho Girl",
-		"First Appearance": "\"The Movie Theater Car\"",
-		"Friends": [],
-		"Enemies": []
-	},
-	{
-		"name": "Spiceman",
-		"img": "/img/characters/spiceman.png",
-		"Species": "Beehive-like denizen",
-		"Gender": "Male ♂",
-		"Complexion": "Golden, sticky",
-		"Status": "Alive",
-		"Friends": [
-			"Kez",
-			"Beehive",
-			"Paco",
-			"Brando",
-			"Driveway",
-			"Ryan Akagi",
-			"Min-Gi Park"
-		],
-		"First Appearance": "The Party Car",
-		"Latest Appearance": "The Party Car",
-		"Enemies": []
-	},
-	{
-		"name": "Spotlight",
-		"img": "/img/characters/spotlight.png",
-		"Species": "Stage Light denizen",
-		"Gender": "Male ♂",
-		"Residence": "Musical Car (formerly)Mall Car (currently)",
-		"Friends": [
-			"Musical Car denizens"
-		],
-		"Enemies": [
-			"Grace Monroe",
-			"Simon Laurent",
-			"The Apex"
-		],
-		"First Appearance": "\"The Musical Car\"",
-		"Latest Appearance": "\"The New Apex\""
-	},
-	{
-		"name": "Steward",
-		"img": "/img/characters/steward.png",
-		"Titles": "Steward",
-		"Species": "Robot",
-		"Gender": "Genderless ø",
-		"Eye Color": "Blue flames",
-		"Status": "Active (repaired)",
-		"Residence": "Infinity Train",
-		"Friends": [
-			"Amelia",
-			"Cat",
-			"One-One"
-		],
-		"Enemies": [
-			"Tulip",
-			"Atticus"
-		],
-		"First Appearance": "Pilot\"The Corgi Car\" (series)",
-		"Latest Appearance": "\"The Castle Car\""
-	},
-	{
-		"name": "Terrance",
-		"img": "/img/characters/terrance.png",
-		"Aliases": "Toad",
-		"Species": "Toad",
-		"Gender": "Male ♂",
-		"Eye Color": "Yellow Orange",
-		"Complexion": "Brown",
-		"Status": "Alive",
-		"Residence": "Infinity Train",
-		"Friends": [
-			"Lake",
-			"Jesse Cosay",
-			"Alan Dracula"
-		],
-		"Occupation": "Game carnival employee in the Lucky Cat Car",
-		"Likes": "Being kicked (only when he gives permission)His freedom outside of his car (currently)",
-		"Dislikes": "Being kicked (only when he doesn't give permission)",
-		"First Appearance": "\"The Toad Car\"",
-		"Latest Appearance": "\"The Lucky Cat Car\"",
-		"Enemies": []
-	},
-	{
-		"name": "The Apex",
-		"img": "/img/characters/the-apex.png",
-		"Location": "Mall Car",
-		"Leader": "Grace Monroe (formerly)Simon Laurent (second-in-command, short leadership; deceased)",
-		"Known members": "Hazel (formerly)LucyToddLindsayAlexLouise (mentioned)",
-		"Allies": "Jesse Cosay (initially; later strained)The Conductor (formerly, indirectly; currently strained)",
-		"Enemies": [],
-		"First Appearance": "\"The Wedding Cake Car\" (cameo)\"The Lucky Cat Car\" (official debut)",
-		"Friends": []
-	},
-	{
-		"name": "Samantha",
-		"img": "/img/characters/samantha.png",
-		"Aliases": "The Cat",
-		"Species": "Cat",
-		"Gender": "Female ♀",
-		"Age": "150+",
-		"Hair Color": "Beige Fur",
-		"Eye Color": "Black (with Yellow sclera)",
-		"Status": "Alive",
-		"Relatives": "Simon Laurent (former ward)",
-		"Friends": [
-			"Tulip Olsen",
-			"One-One",
-			"Simon Laurent",
-			"Randall",
-			"Frank",
-			"Jesse Cosay",
-			"Lake",
-			"Hazel",
-			"Tuba",
-			"Min-Gi Park",
-			"Ryan Akagi",
-			"Kez"
-		],
-		"Enemies": [
-			"Atticus",
-			"The Conductor",
-			"The Steward",
-			"The Apex",
-			"Grace Monroe"
-		],
-		"Likes": "Speaking FrenchA really good deal",
-		"Dislikes": "LosingPeople touching her collection",
-		"First Appearance": "\"The Beach Car\"",
-		"Latest Appearance": "\"The Old West Car\""
-	},
-	{
-		"name": "Tiny Wizards",
-		"img": "/img/characters/tiny-wizards.png",
-		"Eye Color": "Glowing Yellow",
-		"Complexion": "Hairy",
-		"Hair Color": "Purple",
-		"Traits": "Shoot light arrows out of eyesUse beard as legsRed pointed hats",
-		"Location": "Tiny Wizards Car",
-		"First Appearance": "\"The Beach Car\"",
-		"Friends": [],
-		"Enemies": []
-	},
-	{
-		"name": "Todd",
-		"img": "/img/characters/todd.png",
-		"Species": "Human",
-		"Gender": "Male ♂",
-		"Age": "11",
-		"Hair Color": "Brown",
-		"Eye Color": "Blue",
-		"Complexion": "Pale",
-		"Birthday": "Unknown",
-		"Status": "Alive",
-		"Friends": [
-			"Grace Monroe",
-			"Simon Laurent",
-			"Mall Car"
-		],
-		"Enemies": [
-			"Lake",
-			"Ghoms"
-		],
-		"Occupation": "Member of the Apex (formerly)",
-		"First Appearance": "\"The Mall Car\"",
-		"Latest Appearance": "\"The New Apex\""
-	},
-	{
-		"name": "Tuba",
-		"img": "/img/characters/tuba.png",
-		"Titles": "The Mighty Tuba",
-		"Species": "Gorilla denizen",
-		"Gender": "Female ♀",
-		"Status": "Deceased",
-		"Relatives": "Hazel (adoptive daughter)Bugle (daughter; deceased)",
-		"Friends": [
-			"Grace Monroe",
-			"Simon Laurent"
-		],
-		"Enemies": [],
-		"First Appearance": "\"The Jungle Car\"",
-		"Latest Appearance": "\"The Color Clock  Car\" (death)\"The New Apex\" (cameo; image only)"
-	},
-	{
-		"name": "Tulip Olsen",
-		"img": "/img/characters/tulip-olsen.png",
-		"Titles": "Tulip the Literate (Atticus)Miss Tulip (One-One)Tulip Prime (Agent Sieve)Kitten (The Cat)The Passenger (Amelia Hughes)",
-		"Species": "Human",
-		"Gender": "Female ♀",
-		"Age": "12 (pilot)13 (series)",
-		"Hair Color": "Orange",
-		"Complexion": "Pale",
-		"Status": "Alive",
-		"Residence": "(Megan's Residence) North Branch, Minnesota, United States",
-		"Relatives": "Andy Olsen (father)Megan Olsen (mother)Lake (former reflection)",
-		"Friends": [
-			"Mikayla",
-			"One-One",
-			"Atticus",
-			"Randall",
-			"Aloysius",
-			"Lake",
-			"The Cat",
-			"Amelia Hughes",
-			"Nancy",
-			"Greige"
-		],
-		"Enemies": [
-			"Amelia Hughes",
-			"Steward",
-			"Ghoms",
-			"The Cat"
-		],
-		"Likes": "OnionsVideo GamesProgrammingHer friendsThe first three bites of pancakesGetting new textbooksRoad TripsWord Up by Cameo",
-		"Dislikes": "Her parents arguingHer parents' divorce",
-		"First Appearance": "Pilot\"The Grid Car\" (series)",
-		"Latest Appearance": "\"The Engine\""
-	},
-	{
-		"name": "Turtle People",
-		"img": "/img/characters/turtle-people.png",
-		"Complexion": "Hard Green Shell",
-		"Traits": "Don't Like Change",
-		"Location": "Unfinished Car",
-		"Leader": "Aloysius",
-		"Allies": "TulipOne-OneAtticusCorginia",
-		"First Appearance": "\"The Unfinished Car\"",
-		"Friends": [],
-		"Enemies": []
-	},
-	{
-		"name": "Ugly Irwin",
-		"img": "/img/characters/ugly-irwin.png",
-		"Species": "Golden Retriever",
-		"Gender": "Male ♂",
-		"Hair Color": "Golden",
-		"Status": "Alive",
-		"Residence": "Corginia",
-		"First Appearance": "The Corgi Car",
-		"Friends": [],
-		"Enemies": []
-	}
+  {
+    "id": "03a537c7-03d9-48fc-90b9-bf7e685975aa",
+    "name": "Alan Dracula",
+    "img": "/img/characters/alan-dracula.png",
+    "aliases": "DeerSuper Deer (Special Agent Mace)",
+    "species": "White-tailed Deer denizen",
+    "gender": "Male ♂",
+    "age": "Unknown",
+    "hair_color": "Brown, White, Small Bits of Gray",
+    "status": "Alive",
+    "residence": "Infinity Train",
+    "friends": [
+      "Jesse Cosay",
+      "Lake",
+      "One-One"
+    ],
+    "enemies": [
+      "Agent Sieve",
+      "Agent Mace",
+      "Perry",
+      "Grace",
+      "Simon",
+      "The Apex"
+    ],
+    "occupation": "Deer",
+    "likes": "GrassLeavesJesseLake",
+    "dislikes": "Wasteland dirt and sandLoud noisesBeing startledBeing stabled",
+    "first_appearance": "\"The Black Market Car\""
+  },
+  {
+    "id": "c2a1bbee-56b7-4c83-8c6c-6ee1772b5398",
+    "name": "Alex",
+    "img": "/img/characters/alex.jpg",
+    "species": "Human",
+    "gender": "Male ♂",
+    "hair_color": "Blonde",
+    "complexion": "Light",
+    "status": "Alive",
+    "residence": "Infinity Train",
+    "friends": [
+      "The Apex"
+    ],
+    "first_appearance": "\"The Musical Car\"",
+    "enemies": []
+  },
+  {
+    "id": "c98fb890-8192-4a7c-9132-cb0cf35ece5f",
+    "name": "Aloysius III",
+    "img": "/img/characters/aloysius-iii.png",
+    "titles": "Emperor  Unifier",
+    "species": "Turtle Person",
+    "gender": "Male ♂",
+    "status": "Alive",
+    "residence": "Unfinished Car",
+    "friends": [
+      "Tulip",
+      "One-One",
+      "Atticus"
+    ],
+    "occupation": "Emperor",
+    "first_appearance": "\"The Unfinished Car\"",
+    "latest_appearance": "\"The Unfinished Car\"",
+    "enemies": []
+  },
+  {
+    "id": "5942b529-b123-4bef-a1da-b01d0e3180c4",
+    "name": "Alrick Timmens",
+    "img": "/img/characters/alrick-timmens.png",
+    "species": "Human",
+    "gender": "Male ♂",
+    "age": "Late 20s – Early 30s",
+    "hair_color": "Blonde",
+    "eye_color": "Cerulean",
+    "status": "Deceased",
+    "residence": "United Kingdom",
+    "relatives": "Amelia Hughes (fiancée)",
+    "occupation": "Engineer",
+    "first_appearance": "\"The Past Car\"",
+    "latest_appearance": "\"The Past Car\"",
+    "friends": [],
+    "enemies": []
+  },
+  {
+    "id": "12665e88-0fef-4989-9261-8203146fc627",
+    "name": "Amelia Hughes",
+    "img": "/img/characters/amelia-hughes.png",
+    "aliases": "The ConductorThe True Conductor (The Apex)The False Conductor (Grace Monroe)",
+    "species": "Human",
+    "gender": "Female ♀",
+    "age": "Late 60s",
+    "hair_color": "Brown",
+    "ethnicity": "United Kingdom",
+    "status": "Alive",
+    "residence": "United Kingdom (formerly)Infinity Train (currently)",
+    "relatives": "Alrick Timmens (fiancé; deceased)Hazel (creation)",
+    "friends": [
+      "Tulip Olsen",
+      "One-One",
+      "Atticus",
+      "Steward"
+    ],
+    "enemies": [
+      "The Cat",
+      "Simon Laurent"
+    ],
+    "first_appearance": "\"The Cat's Car\"",
+    "latest_appearance": "\"The Origami Car\" (older)\"The Twin Tapes\" (younger)"
+  },
+  {
+    "id": "88e76bce-865b-4d46-bb5d-6b690c3738a5",
+    "name": "Andy Olsen",
+    "img": "/img/characters/andy-olsen.png",
+    "aliases": "Dad",
+    "species": "Human",
+    "gender": "Male ♂",
+    "hair_color": "Brown",
+    "complexion": "Pale",
+    "status": "Alive",
+    "residence": "Megan's Residence (formerly)Unknown (currently)North Branch, Minnesota, United States",
+    "relatives": "Tulip Olsen (daughter)Megan Olsen (ex-wife)",
+    "first_appearance": "\"The Grid Car\" (pictured and mentioned)",
+    "latest_appearance": "\"The Engine\"",
+    "friends": [],
+    "enemies": []
+  },
+  {
+    "id": "988be1a2-34ee-4715-ac84-516f4a8ab855",
+    "name": "Ant Blacksmith",
+    "img": "/img/characters/ant-blacksmith.png",
+    "status": "Alive",
+    "residence": "Old West Car",
+    "first_appearance": "\"The Old West Car\"",
+    "latest_appearance": "\"The Old West Car\"",
+    "friends": [],
+    "enemies": []
+  },
+  {
+    "id": "45879aea-aa73-49f1-986f-74199bbda6f2",
+    "name": "Atticus",
+    "img": "/img/characters/atticus.png",
+    "titles": "King of and uniter of the Cardigans and Pembrokes",
+    "species": "Cardigan Corginia Corgi",
+    "gender": "Male ♂",
+    "hair_color": "Golden",
+    "status": "Alive",
+    "residence": "Corginia",
+    "friends": [
+      "Tulip Olsen",
+      "One-One",
+      "King Aloysius III"
+    ],
+    "enemies": [
+      "Steward",
+      "The Cat",
+      "Amelia"
+    ],
+    "occupation": "King",
+    "likes": "TulipOne-OneBelly rubs",
+    "dislikes": "WaterSpidersThe Cat",
+    "first_appearance": "Pilot\"The Corgi Car\" (series)",
+    "latest_appearance": "\"The Black Market Car\" (pictured)"
+  },
+  {
+    "id": "ce4f7db2-8c24-48e8-ac87-68d4ccc6ec8c",
+    "name": "Ballerina Kids",
+    "img": "/img/characters/ballerina-kids.webp",
+    "aliases": "ShaynaChloeTwo Unnamed Girls",
+    "enemies": [
+      "Grace Monroe"
+    ],
+    "first_appearance": "\"The Debutante Ball Car\" (mentioned)",
+    "friends": []
+  },
+  {
+    "id": "04017763-e7cb-4106-9d3c-f51515129b19",
+    "name": "Beehive",
+    "img": "/img/characters/beehive.png",
+    "titles": "Beehive",
+    "gender": "Male ♂",
+    "status": "Alive",
+    "friends": [
+      "Paco",
+      "Brando",
+      "Spiceman",
+      "Driveway",
+      "Kez",
+      "Ryan Akagi",
+      "Min-Gi Park"
+    ],
+    "first_appearance": "The Party Car",
+    "latest_appearance": "The Party Car",
+    "enemies": []
+  },
+  {
+    "id": "71b6519c-3a26-46c8-aba4-898ae29da49d",
+    "name": "Beetle Bailiff",
+    "img": "/img/characters/beetle-bailiff.png",
+    "gender": "Male ♂",
+    "status": "Alive",
+    "residence": "Old West Car",
+    "friends": [
+      "Judge Morpho",
+      "Mantis",
+      "Grasshopper"
+    ],
+    "enemies": [
+      "Ryan Akagi",
+      "Min-Gi ParkKez"
+    ],
+    "first_appearance": "\"The Old West Car\"",
+    "latest_appearance": "\"The Old West Car\""
+  },
+  {
+    "id": "d5d8650d-17a9-4f47-b506-74d2e43ec6f6",
+    "name": "Ben Greene",
+    "img": "/img/characters/ben-greene.png",
+    "species": "Grape People",
+    "status": "Alive",
+    "first_appearance": "\"The Green Car\"",
+    "latest_appearance": "\"The Party Car\"",
+    "friends": [],
+    "enemies": []
+  },
+  {
+    "id": "8223ae28-925b-4507-8e7d-e040d1c5dc07",
+    "name": "Brando",
+    "img": "/img/characters/brando.png",
+    "titles": "Brando",
+    "aliases": "Zoobee",
+    "gender": "Male ♂",
+    "status": "Alive",
+    "friends": [
+      "Paco",
+      "Spiceman",
+      "Beehive",
+      "Driveway",
+      "Kez",
+      "Ryan Akagi",
+      "Min-Gi Park"
+    ],
+    "latest_appearance": "The Party Car",
+    "enemies": []
+  },
+  {
+    "id": "f5869d57-0087-41f6-b420-266a41a5b8e9",
+    "name": "Bug Cowboys",
+    "img": "/img/characters/bug-cowboys.png",
+    "complexion": "Variant",
+    "location": "Old West Car",
+    "leader": "Caterpillar Sheriff",
+    "enemies": [],
+    "first_appearance": "The Old West Car",
+    "friends": []
+  },
+  {
+    "id": "8a2c0d7f-3ddd-4b81-8928-daaa72554c3c",
+    "name": "Building Person",
+    "img": "/img/characters/building-person.png",
+    "race": "Building People",
+    "gender": "Male",
+    "status": "Alive",
+    "first_appearance": "\"The Kaiju Car\"",
+    "friends": [],
+    "enemies": []
+  },
+  {
+    "id": "1264d303-81e5-4891-b673-1cdd66a5702e",
+    "name": "Building People",
+    "img": "/img/characters/building-people.png",
+    "eye_color": "Red",
+    "complexion": "Brick",
+    "traits": "Terrible Peripheral Vision",
+    "location": "Kaiju Car",
+    "first_appearance": "\"The Kaiju Car\"",
+    "friends": [],
+    "enemies": []
+  },
+  {
+    "id": "aa1fd97c-5c07-4f82-af3f-fa2838c40e5e",
+    "name": "Candy Girl",
+    "img": "/img/characters/candy-girl.png",
+    "race": "Concession People",
+    "gender": "Female",
+    "outfit": "Candy Box",
+    "friend(s)": "Concession Stand MonsterSoda GirlPopcorn GirlNacho Girl",
+    "first_appearance": "\"The Movie Theater Car\"",
+    "friends": [],
+    "enemies": []
+  },
+  {
+    "id": "65966cde-c27f-46cd-8a3a-5129274a1545",
+    "name": "Carrot People",
+    "img": "/img/characters/carrot-people.png",
+    "eye_color": "Hollow",
+    "complexion": "OrangeCarrot Shaped Head",
+    "hair_color": "Green",
+    "location": "Carrot Car",
+    "first_appearance": "\"The Black Market Car\"",
+    "friends": [],
+    "enemies": []
+  },
+  {
+    "id": "5d2d62c2-c1ba-4423-9ecf-9e79b2925f4b",
+    "name": "Chandelier",
+    "img": "/img/characters/chandelier.jpg",
+    "species": "Denizen (Chandelier)",
+    "gender": "Male ♂",
+    "eye_color": "White",
+    "complexion": "Gold",
+    "status": "Alive",
+    "residence": "Debutante Ball Car",
+    "friends": [
+      "Octopus People"
+    ],
+    "enemies": []
+  },
+  {
+    "id": "5e575e9e-87c4-42ff-b666-d99f482c42c6",
+    "name": "Concession People",
+    "img": "/img/characters/concession-people.png",
+    "location": "Movie Theater Car",
+    "leader": "Concession Stand Monster",
+    "enemies": [],
+    "first_appearance": "\"The Movie Theater Car\"",
+    "friends": []
+  },
+  {
+    "id": "ee6511cd-ea21-41e4-8297-adcda7615c66",
+    "name": "Concession Stand Monster",
+    "img": "/img/characters/concession-stand-monster.png",
+    "accessories": "Hidden in car itself",
+    "status": "Alive",
+    "friend(s)": "Popcorn GirlSoda GirlCandy GirlNacho Girl",
+    "friends": [],
+    "enemies": []
+  },
+  {
+    "id": "09960a86-832d-4e2c-a6a7-0f043be1b127",
+    "name": "Corginian Corgis",
+    "img": "/img/characters/corginian-corgis.png",
+    "location": "Corginia",
+    "leader": "Atticus",
+    "allies": "Tulip OlsenOne-OneTurtle PeopleUgly Irwin",
+    "enemies": [],
+    "first_appearance": "The Corgi Car",
+    "friends": []
+  },
+  {
+    "id": "ee42585a-a668-4983-8116-20799bcd78ac",
+    "name": "Cow Creamer",
+    "img": "/img/characters/cow-creamer.png",
+    "gender": "Female ♀",
+    "status": "Alive",
+    "residence": "Pig Baby Car",
+    "friends": [
+      "Pig Baby",
+      "Ryan Akagi (currently)Min-Gi Park (currently)Kez (currently)Parka DenizensJudge Morpho (formerly)Nigel"
+    ],
+    "enemies": [
+      "Ryan Akagi",
+      "Min-Gi Park (formerly)Kez (formerly)Judge Morpho (currently)"
+    ],
+    "first_appearance": "\"The Pig Baby Car\"",
+    "latest_appearance": "\"The Train to Nowhere\""
+  },
+  {
+    "id": "2a8b3fd8-8f3d-4c89-8541-3f34ec94ac7b",
+    "name": "Crochet People",
+    "img": "/img/characters/crochet-people.png",
+    "hair_color": "Pink",
+    "location": "Doily Car",
+    "first_appearance": "\"The Black Market Car\"",
+    "friends": [],
+    "enemies": []
+  },
+  {
+    "id": "106fe8ee-3405-4de0-94d2-928a854546d2",
+    "name": "Cross-Eyed Ducks",
+    "img": "/img/characters/cross-eyed-ducks.png",
+    "complexion": "White Feathers",
+    "traits": "Crossed Eyes",
+    "location": "Cross-Eyed Ducks Car",
+    "first_appearance": "\"The Corgi Car\"",
+    "friends": [],
+    "enemies": []
+  },
+  {
+    "id": "8be2e867-ffd9-4735-b524-ecf3aecc5f31",
+    "name": "Cubey Denizens",
+    "img": "/img/characters/cubey-denizens.png",
+    "complexion": "Grey",
+    "traits": "Rocks",
+    "location": "Hey Ho Whoa Car",
+    "first_appearance": "\"The Lucky Cat Car\" (mentioned)\"The Hey Ho Whoa Car\"",
+    "friends": [],
+    "enemies": []
+  },
+  {
+    "id": "701503ff-55de-42e3-8d82-61682dde9f75",
+    "name": "Danny Nougat",
+    "img": "/img/characters/danny-nougat's-daughter.png",
+    "species": "Human",
+    "gender": "Male ♂",
+    "age": "Adult",
+    "hair_color": "Dark",
+    "complexion": "Light",
+    "status": "Alive",
+    "relatives": "Unnamed daughter",
+    "occupation": "Office Manager",
+    "first_appearance": "\"The Tape Car\"",
+    "friends": [],
+    "enemies": []
+  },
+  {
+    "id": "4e8ee5d4-efd4-466c-a996-c618d5bc2e1f",
+    "name": "Danny Nougat's daughter",
+    "img": "/img/characters/danny-nougat.png",
+    "hair_color": "Brown",
+    "complexion": "Light",
+    "relatives": "Danny Nougat",
+    "first_appearance": "\"The Tape Car\"",
+    "friends": [],
+    "enemies": []
+  },
+  {
+    "id": "7c3ba3b0-dd74-44af-9113-8412958458b2",
+    "name": "",
+    "img": "/img/characters/.png",
+    "friends": [],
+    "enemies": []
+  },
+  {
+    "id": "09c6492b-abd0-4ef1-b170-615bf5eb97d4",
+    "name": "Docent",
+    "img": "/img/characters/docent.png",
+    "residence": "Art Gallery Car",
+    "enemies": [
+      "Min-Gi Park",
+      "Ryan Akagi",
+      "Kez"
+    ],
+    "first_appearance": "\"The Art Gallery Car\"",
+    "friends": []
+  },
+  {
+    "id": "447d705d-8f5a-4350-a1e1-0829a15d0a92",
+    "name": "Driveway",
+    "img": "/img/characters/driveway.png",
+    "titles": "Driveway",
+    "species": "Cubey Denizen",
+    "gender": "Male ♂",
+    "status": "Alive",
+    "friends": [
+      "Paco",
+      "Brando",
+      "Spiceman",
+      "Beehive",
+      "Kez",
+      "Ryan Akagi",
+      "Min-Gi Park"
+    ],
+    "first_appearance": "The Party Car",
+    "enemies": []
+  },
+  {
+    "id": "9d4e8ac6-a0a1-40d8-b0ff-447b4497fa7e",
+    "name": "Floating Jellyfish",
+    "img": "/img/characters/floating-jellyfish.png",
+    "traits": "FloatingLuminous",
+    "location": "Jellyfish Car",
+    "first_appearance": "\"The Black Market Car\"",
+    "friends": [],
+    "enemies": []
+  },
+  {
+    "id": "fab4f2f4-cff1-4235-baeb-143776062cca",
+    "name": "Flying Snakes",
+    "img": "/img/characters/flying-snakes.png",
+    "eye_color": "Green",
+    "complexion": "Yellow scales",
+    "traits": "Flying",
+    "location": "Flying Snake Car",
+    "first_appearance": "\"The Black Market Car\"",
+    "friends": [],
+    "enemies": []
+  },
+  {
+    "id": "0d9676e4-9a2d-440e-9255-4760daac501b",
+    "name": "Frank",
+    "img": "/img/characters/frank.png",
+    "species": "Bear",
+    "gender": "Male ♂",
+    "hair_color": "Brown",
+    "friends": [
+      "The Cat"
+    ],
+    "occupation": "Security",
+    "first_appearance": "\"The Lucky Cat Car\"",
+    "latest_appearance": "\"Le Chat Chalet Car\"",
+    "enemies": []
+  },
+  {
+    "id": "7c9ab572-84af-441a-bca4-c3f4e5807371",
+    "name": "Fyodor",
+    "img": "/img/characters/fyodor.png",
+    "titles": "Fyodor",
+    "aliases": "None",
+    "gender": "Genderless ø",
+    "status": "Alive",
+    "residence": "Cube Car",
+    "enemies": [
+      "The Apex"
+    ],
+    "first_appearance": "The Mall Car",
+    "friends": []
+  },
+  {
+    "id": "6bd4fd38-a1c7-4218-86d6-216c15d78646",
+    "name": "Ghoms",
+    "img": "/img/characters/ghoms.png",
+    "complexion": "Black",
+    "traits": "Able to eat soulsAble to flyAggression",
+    "location": "Wasteland",
+    "first_appearance": "\"The Grid Car\"",
+    "friends": [],
+    "enemies": []
+  },
+  {
+    "id": "6c283f28-b0be-40bc-ae97-213079495d98",
+    "name": "Giant",
+    "img": "/img/characters/giant.png",
+    "status": "Alive",
+    "residence": "Crystal Car",
+    "occupation": "Gatekeeper",
+    "first_appearance": "\"The Crystal Car\"",
+    "friends": [],
+    "enemies": []
+  },
+  {
+    "id": "3a236916-179d-497a-8de9-11395f10870e",
+    "name": "Grace Monroe",
+    "img": "/img/characters/grace-monroe.png",
+    "species": "Human",
+    "gender": "Female ♀",
+    "age": "18[1]",
+    "hair_color": "Black",
+    "complexion": "Dark",
+    "status": "Alive",
+    "residence": "The Infinity Train's Mall Car (currently)The Monroe mansion (formerly)",
+    "relatives": "An unnamed fatherAn unnamed mother",
+    "friends": [
+      "Simon Laurent",
+      "The Apex",
+      "Hazel",
+      "Jesse Cosay",
+      "Tuba",
+      "Amelia Hughes",
+      "Lucy",
+      "Origami Birds"
+    ],
+    "enemies": [
+      "Samantha",
+      "One-One",
+      "Lake",
+      "Alan Dracula",
+      "Ballerina classmates"
+    ],
+    "likes": "Corn dogsLiving on the trainHelping othersBeing noticed (formerly)Leading the Apex (formerly)Getting her number up (formerly)Rebellious behavior (formerly)Raiding train cars (formerly)Wheeling or tormenting \"Nulls\" (formerly)",
+    "dislikes": "Being aloneDisappointing others\"Nulls\" (formerly)Her past misdeedsSimon refusing to change.",
+    "first_appearance": "\"The Engine\" (cameo; image only)\"The Lucky Cat Car\" (physical debut)",
+    "latest_appearance": "\"The New Apex\""
+  },
+  {
+    "id": "de4bd581-0047-4fef-a252-05425c832a78",
+    "name": "Grace's babysitters",
+    "img": "/img/characters/grace's-babysitters.png",
+    "aliases": "Known Names:JulieMollyJacobSusan",
+    "occupation": "Grace Monroe's caregivers",
+    "friends": [],
+    "enemies": []
+  },
+  {
+    "id": "132b3a58-cc22-4e22-83f8-22a4e98a09c2",
+    "name": "Mr.Monroe",
+    "img": "/img/characters/mr.monroe.png",
+    "gender": "Male ♂",
+    "hair_color": "Dark",
+    "complexion": "Dark",
+    "status": "Alive",
+    "relatives": "An unnamed wifeGrace Monroe (daughter)",
+    "first_appearance": "\"The Debutante Ball Car\" (mentioned)",
+    "latest_appearance": "\"The Origami Car\" (flashback)",
+    "friends": [],
+    "enemies": []
+  },
+  {
+    "id": "c844bda9-3af3-4b3d-b2f0-6eddb9fcd3f9",
+    "name": "Grace's Mother",
+    "img": "/img/characters/grace's-mother.png",
+    "gender": "Female ♀",
+    "hair_color": "Dark",
+    "complexion": "Dark",
+    "status": "Alive",
+    "relatives": "An unnamed husbandGrace Monroe (daughter)",
+    "first_appearance": "\"The Debutante Ball Car\" (mentioned)",
+    "latest_appearance": "\"The Origami Car\" (flashbacks)",
+    "friends": [],
+    "enemies": []
+  },
+  {
+    "id": "27cf62f4-6e9d-420e-bef7-5366c5034537",
+    "name": "Grasshopper",
+    "img": "/img/characters/grasshopper.png",
+    "gender": "Male ♂",
+    "status": "Alive",
+    "residence": "Old West Car",
+    "friends": [
+      "Judge Morpho",
+      "Mantis",
+      "Beetle Bailiff"
+    ],
+    "enemies": [
+      "Ryan Akagi",
+      "Min-Gi ParkKez"
+    ],
+    "first_appearance": "\"The Iceberg Car\"",
+    "latest_appearance": "\"The Old West Car\""
+  },
+  {
+    "id": "f66c061f-2503-4aa4-91d5-db44bed3cae1",
+    "name": "Greige",
+    "img": "/img/characters/greige.png",
+    "aliases": "The Crystal Man",
+    "complexion": "Greige",
+    "status": "Alive",
+    "residence": "Crystal Car",
+    "first_appearance": "\"The Crystal Car\"",
+    "latest_appearance": "\"The Lucky Cat Car\"",
+    "friends": [],
+    "enemies": []
+  },
+  {
+    "id": "118837ba-68ff-4209-8440-45d6840093a0",
+    "name": "Hazel",
+    "img": "/img/characters/hazel.png",
+    "titles": "Debatable (Amelia)",
+    "species": "Experimental Humanoid/Turtle Person",
+    "gender": "Female ♀",
+    "age": "6 ½",
+    "hair_color": "Blonde",
+    "complexion": "Olive (human form)Light green (turtle form)",
+    "status": "Alive",
+    "relatives": "Tuba (adoptive mother; deceased)Amelia Hughes (creator)",
+    "friends": [
+      "Grace",
+      "Simon"
+    ],
+    "enemies": [],
+    "likes": "Ice creamSnowball fightsDancing",
+    "dislikes": "Being alone",
+    "first_appearance": "\"The Jungle Car\"",
+    "latest_appearance": "\"The Origami Car\" (physically)\"The New Apex\" (tape)"
+  },
+  {
+    "id": "d5404c6b-8ed4-476e-ab50-45892677a8b2",
+    "name": "Hill Man",
+    "img": "/img/characters/hill-man.png",
+    "species": "Hill People",
+    "gender": "Male ♂",
+    "status": "Alive",
+    "first_appearance": "\"The Hill Car\"",
+    "friends": [],
+    "enemies": []
+  },
+  {
+    "id": "9e70079f-c655-4ff8-8402-3dc7fd781ae7",
+    "name": "Horace",
+    "img": "/img/characters/horace.png",
+    "titles": "Horace",
+    "gender": "Male ♂",
+    "age": "Unknown",
+    "hair_color": "Gray",
+    "status": "Alive",
+    "residence": "Horace's Residence",
+    "first_appearance": "The Twin Tapes",
+    "latest_appearance": "The Twin Tapes",
+    "friends": [],
+    "enemies": []
+  },
+  {
+    "id": "065a82e6-dfeb-487b-adbf-1e351407d753",
+    "name": "Hot Dog",
+    "img": "/img/characters/hot-dog.png",
+    "friend(s)": "One-OneLinnette Ramsey-WilkinsonJoe",
+    "friends": [],
+    "enemies": []
+  },
+  {
+    "id": "a041356a-65c3-46da-aa95-ad1e7e5a5087",
+    "name": "Insect Denizens",
+    "img": "/img/characters/insect-denizens.png",
+    "eye_color": "Variant",
+    "complexion": "Variant",
+    "traits": "Variant",
+    "location": "Old West Car",
+    "leader": "Judge Morpho (possibility)",
+    "enemies": [],
+    "first_appearance": "The Old West Car",
+    "friends": []
+  },
+  {
+    "id": "acb77fbe-c601-4e4f-9a9e-6436796d6750",
+    "name": "Jeremy Bradford",
+    "img": "/img/characters/jeremy-bradford.png",
+    "gender": "Male ♂",
+    "status": "Alive",
+    "residence": "Mega Maze Car (formerly; current residence unknown)",
+    "relatives": "Sandra Bradford (sister; deceased)Unnamed mother (mother; deceased)",
+    "likes": "Hats",
+    "first_appearance": "\"The Old West Car\" (picture only)",
+    "friends": [],
+    "enemies": []
+  },
+  {
+    "id": "7a8ffd60-0b10-4c0d-9eca-8ce65540b8f7",
+    "name": "Jesse Cosay",
+    "img": "/img/characters/jesse-cosay.png",
+    "titles": "CasanovaDing Dong (Lake)Tomcat (The Cat)",
+    "species": "Human",
+    "gender": "Male ♂",
+    "age": "14-15[1]",
+    "hair_color": "Dark",
+    "ethnicity": "Apache",
+    "status": "Alive",
+    "residence": "Infinity Train (formerly)Arizona (currently)",
+    "relatives": "Mrs. Cosay (mother)Mr. Cosay (father)Nate Cosay (younger brother)",
+    "friends": [
+      "Lake",
+      "Alan Dracula",
+      "Grace Monroe",
+      "Simon Laurent"
+    ],
+    "enemies": [
+      "Agent Sieve",
+      "Agent Mace",
+      "The Apex"
+    ],
+    "likes": "The name \"Dracula\"Taking pictures of animals wearing sunglassesSingingMaking friendsFreestyle swimming",
+    "dislikes": "Lake's hostilityConflictDisputesThe \"Flecks\"The Apex ideology",
+    "first_appearance": "\"The Black Market Car\"",
+    "latest_appearance": "\"The Number Car\" (latest physical appearance)\"The New Apex\" (cameo; image only)"
+  },
+  {
+    "id": "138e9449-9ca6-4790-b84d-fbddd2531e7a",
+    "name": "Mr. Cosay",
+    "img": "/img/characters/mr.-cosay.png",
+    "alias": "Dad",
+    "gender": "Male",
+    "age": "Late 30s to 40s",
+    "outfit": "Red and White Baseball Cap",
+    "hair": "Black",
+    "status": "Alive",
+    "relatives(s)": "Jesse Cosay (oldest son)Nathan Cosay (youngest son)Mrs. Cosay (wife)",
+    "friends": [],
+    "enemies": []
+  },
+  {
+    "id": "82107bae-ccc5-4005-96a8-05a49eeca9c5",
+    "name": "Jesse's Friends",
+    "img": "/img/characters/jesse's-friends.png",
+    "aliases": "Known \"friends\":Troy Banks (Scott Menville)Bully #1 (Scott Menville)Bully #2 (Robbie Daymond)Bully #3 (Owen Dennis)",
+    "residence": "Arizona, United States",
+    "friends": [
+      "Jesse Cosay"
+    ],
+    "first_appearance": "The Family Tree Car (mentioned)",
+    "enemies": []
+  },
+  {
+    "id": "001957a8-a9f2-4f67-bc1b-b2e871e2882e",
+    "name": "Mrs. Cosay",
+    "img": "/img/characters/mrs.-cosay.png",
+    "alias": "Mom",
+    "gender": "Female",
+    "age": "Late 30s to 40s",
+    "hair": "Black",
+    "status": "Alive",
+    "relatives(s)": "Jesse (oldest son)Nathan (youngest son)Mr. Cosay (husband)",
+    "friends": [],
+    "enemies": []
+  },
+  {
+    "id": "8b2e4e94-4f0b-44b3-a202-96e873d8a2da",
+    "name": "Joe",
+    "img": "/img/characters/joe.png",
+    "friend(s)": "One-OneLinnette Ramsey-WilkinsonHot Dog",
+    "friends": [],
+    "enemies": []
+  },
+  {
+    "id": "45be335f-bfaf-4aa4-b374-5c71dcc119c1",
+    "name": "Judge Morpho",
+    "img": "/img/characters/judge-morpho.png",
+    "aliases": "Caterpillar Sheriff",
+    "species": "Butterfly",
+    "gender": "Female ♀",
+    "status": "Unknown (possibly deceased)",
+    "residence": "Old West Car",
+    "friends": [
+      "Grasshopper",
+      "Mantis",
+      "Beetle Bailiff",
+      "Parka Denizens",
+      "Cow Creamer",
+      "Pig Baby",
+      "Nigel"
+    ],
+    "enemies": [
+      "Ryan Akagi",
+      "Min-Gi Park",
+      "Kez"
+    ],
+    "occupation": "JudgeSheriff (formerly)",
+    "first_appearance": "\"The Iceberg Car\"",
+    "latest_appearance": "\"The Train to Nowhere\""
+  },
+  {
+    "id": "8f7b6fad-88cf-42ff-82da-608e177b6b1e",
+    "name": "Kaiju Monsters",
+    "img": "/img/characters/kaiju-monsters.png",
+    "eye_color": "Black (Pterodactyl monster)Yellow (Flying shark monster)",
+    "complexion": "Yellow (Pterodactyl monster)Dark grey and grayish blue (Flying shark monster)",
+    "residence": "Kaiju Car",
+    "enemies": [],
+    "first_appearance": "\"The Kaiju Car\"",
+    "friends": []
+  },
+  {
+    "id": "872da96c-82b0-449a-80d1-822efca98212",
+    "name": "Kevin",
+    "img": "/img/characters/kevin.png",
+    "race": "Turtle Person",
+    "gender": "Male",
+    "outfit": "JacketBlue Necktie",
+    "relatives(s)": "Mail Lady (wife)Kevin Jr (son)",
+    "friend(s)": "Aloysius",
+    "first_appearance": "\"The Unfinished Car\"",
+    "friends": [],
+    "enemies": []
+  },
+  {
+    "id": "986f2e8c-b630-4f2a-804d-85d40b6d7fb3",
+    "name": "Kez",
+    "img": "/img/characters/kez.png",
+    "aliases": "Cactus Kez (Bug Cowboys)LorraineButter Kez (Cow Creamer)",
+    "species": "Concierge Bell denizen",
+    "friends": [
+      "Ryan Akagi",
+      "Min-Gi Park",
+      "Jeremy Bradford",
+      "Morgan",
+      "Samantha",
+      "Paco",
+      "Brando",
+      "Spiceman",
+      "Beehive",
+      "Driveway",
+      "Parka Denizens",
+      "Pig Baby",
+      "Nigel"
+    ],
+    "enemies": [
+      "Judge Morpho",
+      "Docent",
+      "Beetle Bailiff",
+      "Grasshopper"
+    ],
+    "first_appearance": "\"The Twin Tapes\"",
+    "latest_appearance": "\"The Train to Nowhere\""
+  },
+  {
+    "id": "870ec7af-79dc-4c00-ba59-ec4fb1eb6d57",
+    "name": "Khaki Bottoms",
+    "img": "/img/characters/khaki-bottoms.png",
+    "species": "Stuffed Toy Rabbit",
+    "gender": "Male ♂",
+    "complexion": "Teal Cloth",
+    "status": "Alive",
+    "residence": "Ball Pit Car (formerly)Lucky Cat Car (currently)",
+    "friends": [
+      "Tulip",
+      "One-One",
+      "Atticus"
+    ],
+    "first_appearance": "\"The Ball Pit Car\"",
+    "latest_appearance": "\"The Lucky Cat Car\"",
+    "enemies": []
+  },
+  {
+    "id": "b89e25cb-cd1d-4121-bc7a-81160dd534f0",
+    "name": "Lake",
+    "img": "/img/characters/lake.png",
+    "aliases": "Mirror TulipM.T.GambitChrome Girl",
+    "species": "Cracked Reflection",
+    "gender": "Female ♀",
+    "age": "13 (physically)",
+    "hair_color": "Chrome",
+    "eye_color": "Chrome",
+    "complexion": "Chrome",
+    "status": "Alive",
+    "residence": "Chrome Car, later mobile throughout the Infinity Train (formerly)Arizona (currently)",
+    "relatives": "Tulip Olsen (Prime)",
+    "friends": [
+      "Tulip",
+      "One-One",
+      "Atticus",
+      "Jesse Cosay",
+      "Alan Dracula",
+      "Nathan"
+    ],
+    "enemies": [
+      "Agent Sieve",
+      "Agent Mace",
+      "Grace Monroe",
+      "Simon Laurent",
+      "The Apex"
+    ],
+    "occupation": "Tulip's reflection (formerly)",
+    "goal": "Make her own identity and escape the Infinity Train (Both succeeded)",
+    "likes": "ExploringReflective Surfaces off the trainAnimalsFreedom",
+    "dislikes": "OnionsCodingReflective Surfaces on the train (formerly)Nicknames",
+    "first_appearance": "Pilot\"The Grid Car\" (series; cameo)\"The Chrome Car\" (series; official debut)",
+    "latest_appearance": "\"The Number Car\" (latest physical appearance)\"The New Apex\" (cameo; image only)"
+  },
+  {
+    "id": "f5d1a8d8-b054-4310-9415-be2b0811b477",
+    "name": "Lava Mole",
+    "img": "/img/characters/lava-mole.png",
+    "race": "Molten Mole",
+    "gender": "Male",
+    "status": "Alive",
+    "friends": [],
+    "enemies": []
+  },
+  {
+    "id": "ce1a7fb1-6f10-459b-8bd1-5c2c3af72589",
+    "name": "Lindsay",
+    "img": "/img/characters/lindsay.png",
+    "gender": "Female ♀",
+    "hair_color": "Brown",
+    "status": "Alive",
+    "residence": "Infinity Train",
+    "friends": [
+      "The Apex"
+    ],
+    "occupation": "Member of The Apex",
+    "first_appearance": "\"The Musical Car\"",
+    "enemies": []
+  },
+  {
+    "id": "9028ab64-996a-4ce7-8075-819298114034",
+    "name": "Linnette Ramsey-Wilkinson",
+    "img": "/img/characters/linnette-ramsey-wilkinson.png",
+    "friend(s)": "One-OneJoeHot Dog",
+    "friends": [],
+    "enemies": []
+  },
+  {
+    "id": "584de83c-8e62-458a-90c7-464a360c156c",
+    "name": "Louise",
+    "img": "/img/characters/louise.png",
+    "gender": "Unknown ?",
+    "hair_color": "Unknown",
+    "status": "Alive",
+    "occupation": "Member of The Apex",
+    "first_appearance": "The Debutante Ball Car (mentioned)",
+    "friends": [],
+    "enemies": []
+  },
+  {
+    "id": "32fa65e0-0a13-4001-b0c4-3a9104354e31",
+    "name": "Lucy",
+    "img": "/img/characters/lucy.png",
+    "species": "Human",
+    "gender": "Female ♀",
+    "hair_color": "Brown",
+    "status": "Alive",
+    "residence": "Mall Car",
+    "friends": [
+      "Mall Car",
+      "Grace Monroe",
+      "Simon Laurent"
+    ],
+    "enemies": [
+      "Ghoms"
+    ],
+    "occupation": "Member of The Apex (formerly)",
+    "first_appearance": "\"The Mall Car\" (background cameo)\"The Musical Car\""
+  },
+  {
+    "id": "1a446f8a-c30a-4c5c-aca5-ce355344e965",
+    "name": "Agent Mace",
+    "img": "/img/characters/agent-mace.png",
+    "gender": "Male ♂",
+    "complexion": "Metallic with \"skins\"",
+    "status": "Deceased",
+    "residence": "Chrome Car",
+    "friends": [
+      "Agent Sieve"
+    ],
+    "enemies": [
+      "Lake",
+      "Tulip Olsen",
+      "One-One",
+      "Atticus",
+      "Jesse Cosay",
+      "Alan Dracula"
+    ],
+    "occupation": "Reflection Police",
+    "first_appearance": "\"The Chrome Car\"",
+    "latest_appearance": "\"The Wasteland\" (death)"
+  },
+  {
+    "id": "500f994f-9606-4f2e-886d-0e7bca78dd07",
+    "name": "Mail Lady",
+    "img": "/img/characters/mail-lady.png",
+    "species": "Turtle Person",
+    "gender": "Female ♀",
+    "residence": "Unfinished Car",
+    "relatives": "KevinKevin Jr.",
+    "friends": [
+      "Aloysius"
+    ],
+    "enemies": [
+      "The Apex"
+    ],
+    "occupation": "Mail Carrier",
+    "first_appearance": "\"The Unfinished Car\"",
+    "latest_appearance": "\"The Musical Car\""
+  },
+  {
+    "id": "c9ec238a-2b98-4544-9b39-cf88e1ec767b",
+    "name": "Mantis",
+    "img": "/img/characters/mantis.png",
+    "gender": "Male ♂",
+    "status": "Alive",
+    "residence": "Old West Car",
+    "friends": [
+      "Judge Morpho",
+      "Grasshopper",
+      "Beetle Bailiff"
+    ],
+    "enemies": [
+      "Ryan Akagi",
+      "Min-Gi ParkKez"
+    ],
+    "first_appearance": "\"The Iceberg Car\"",
+    "latest_appearance": "\"The Old West Car\""
+  },
+  {
+    "id": "f34792d1-f28e-4e8b-85fb-b03e5e32af03",
+    "name": "Marcel",
+    "img": "/img/characters/marcel.png",
+    "aliases": "The Wind",
+    "status": "Deceased",
+    "enemies": [
+      "Jesse Cosay",
+      "LakeAlan Dracula"
+    ],
+    "first_appearance": "The Map Car",
+    "latest_appearance": "The Map Car",
+    "friends": []
+  },
+  {
+    "id": "5efe8c6d-3733-418d-96d9-48752c421d62",
+    "name": "Masked Monsters",
+    "img": "/img/characters/masked-monsters.png",
+    "complexion": "Varies",
+    "traits": "Masks",
+    "location": "Monster Dance Car",
+    "first_appearance": "\"The Corgi Car\"",
+    "friends": [],
+    "enemies": []
+  },
+  {
+    "id": "c12a09a9-b301-4ca3-9b5a-7dbf5bc30ea8",
+    "name": "Megan Olsen",
+    "img": "/img/characters/megan-olsen.png",
+    "species": "Human",
+    "gender": "Female ♀",
+    "hair_color": "Blonde",
+    "complexion": "Pale",
+    "status": "Alive",
+    "residence": "(Megan's Residence) North Branch, Minnesota, United States",
+    "relatives": "Tulip Olsen (daughter)Andy Olsen (ex-husband)",
+    "first_appearance": "\"The Grid Car\"",
+    "latest_appearance": "\"The Engine\"",
+    "friends": [],
+    "enemies": []
+  },
+  {
+    "id": "bb5b04a8-47b3-4d5b-ac70-fdb48dc91e10",
+    "name": "Mermaids",
+    "img": "/img/characters/mermaids.png",
+    "eye_color": "Black",
+    "complexion": "White",
+    "hair_color": "Varies",
+    "location": "Map Car",
+    "first_appearance": "\"The Map Car\"",
+    "friends": [],
+    "enemies": []
+  },
+  {
+    "id": "859ac79e-533b-44e9-965b-64d45c37b229",
+    "name": "Messenger Corgi",
+    "img": "/img/characters/messenger-corgi.png",
+    "titles": "Messenger (possibly)",
+    "species": "Corgi",
+    "gender": "Male ♂",
+    "hair_color": "Golden and Brown",
+    "status": "Alive",
+    "residence": "Corginia",
+    "friends": [
+      "Atticus"
+    ],
+    "enemies": [
+      "Steward"
+    ],
+    "occupation": "Messenger (possibly)",
+    "first_appearance": "Pilot"
+  },
+  {
+    "id": "daa0b5e0-f7b4-4350-8b99-4de7b4373579",
+    "name": "Mikayla",
+    "img": "/img/characters/mikayla.png",
+    "species": "Human",
+    "gender": "Female ♀",
+    "age": "13",
+    "hair_color": "Dark Brown",
+    "status": "Alive",
+    "residence": "North Branch, Minnesota",
+    "friends": [
+      "Tulip Olsen"
+    ],
+    "occupation": "Middle School Student",
+    "likes": "Tulip's video game",
+    "dislikes": "OnionsVideo Games (in general)",
+    "first_appearance": "\"The Grid Car\"",
+    "latest_appearance": "\"The Cat's Car\"",
+    "enemies": []
+  },
+  {
+    "id": "96980d21-1cce-4b38-ac42-0c8510241fad",
+    "name": "Mildred the Tyrannosaur",
+    "img": "/img/characters/mildred-the-tyrannosaur.png",
+    "species": "Tyrannosaurus rex",
+    "status": "Alive",
+    "residence": "Dinosaur Baseball Car",
+    "friends": [
+      "Tulip",
+      "One-One",
+      "Atticus"
+    ],
+    "likes": "Baseball",
+    "first_appearance": "\"The Cat's Car\"",
+    "enemies": []
+  },
+  {
+    "id": "89519ae1-df8c-4c0c-b061-a2d1b1808733",
+    "name": "Min-Gi Park",
+    "img": "/img/characters/min-gi-park.png",
+    "species": "Human",
+    "gender": "Male ♂",
+    "age": "18",
+    "hair_color": "Black",
+    "status": "Alive",
+    "residence": "Powell Lake, British Columbia, Canada",
+    "relatives": "Mr. Park (father)Mrs. Park (mother)",
+    "friends": [
+      "Ryan Akagi",
+      "Kez",
+      "Samantha",
+      "Paco",
+      "Brando",
+      "Spiceman",
+      "Beehive",
+      "Driveway",
+      "Parka Denizens",
+      "Pig Baby",
+      "Cow Creamer",
+      "Nigel"
+    ],
+    "enemies": [
+      "Judge Morpho",
+      "Beetle Bailiff",
+      "Grasshopper",
+      "Docent"
+    ],
+    "occupation": "Shift manager at Dumpty's Diner (formerly)Musician",
+    "first_appearance": "Book Four - Duet"
+  },
+  {
+    "id": "81c51dec-016d-4020-a511-b8514422b1b0",
+    "name": "Min-Gi's Father",
+    "img": "/img/characters/min-gi's-father.png",
+    "gender": "Male ♂",
+    "status": "Alive",
+    "residence": "Powell Lake, British Columbia, Canada",
+    "relatives": "Mrs. Park (wife)Min-Gi Park (son)",
+    "first_appearance": "\"The Twin Tapes\"",
+    "latest_appearance": "\"The Twin Tapes\"",
+    "friends": [],
+    "enemies": []
+  },
+  {
+    "id": "4f05407c-5e87-4e68-9c75-62143a13186b",
+    "name": "Min-Gi's Mother",
+    "img": "/img/characters/min-gi's-mother.png",
+    "gender": "Female ♀",
+    "status": "Alive",
+    "residence": "Powell Lake, British Columbia, Canada",
+    "relatives": "Mr. Park (husband)Min-Gi Park (son)",
+    "first_appearance": "\"The Twin Tapes\"",
+    "latest_appearance": "\"The Twin Tapes\"",
+    "friends": [],
+    "enemies": []
+  },
+  {
+    "id": "50ae611b-988b-4e82-a51f-f78a33b238de",
+    "name": "Dolphin HandlerHarry The Bike GuyMirror OneMirror AtticusMirror MedicsFemale TeacherMale TeacherAlexBugelLouiseHoraceThe AnnouncerTeen Fan",
+    "img": "/img/characters/dolphin-handlerharry-the-bike-guymirror-onemirror-atticusmirror-medicsfemale-teachermale-teacheralexbugellouisehoracethe-announcerteen-fan.png",
+    "titles": "Horace",
+    "species": "Human",
+    "gender": "Female ♀",
+    "age": "Unknown",
+    "hair_color": "Brown",
+    "status": "Alive",
+    "first_appearance": "The Train to Nowhere",
+    "latest_appearance": "The Train to Nowhere",
+    "voiced_by": "Niki Yang",
+    "residence": "Horace's Residence",
+    "occupation": "Announcer",
+    "dislikes": "Atticus' Bark",
+    "complexion": "Light",
+    "friends": [
+      "The Apex"
+    ],
+    "relatives": "Tuba (mother)",
+    "enemies": []
+  },
+  {
+    "id": "80939fe5-55fd-459e-a06d-0738f15fa9dd",
+    "name": "Mirror Atticus",
+    "img": "/img/characters/mirror-atticus.png",
+    "gender": "Male ♂",
+    "hair_color": "Golden",
+    "status": "Alive",
+    "residence": "Chrome Car",
+    "occupation": "Atticus' Reflection",
+    "dislikes": "Atticus' Bark",
+    "first_appearance": "\"The Chrome Car\"",
+    "friends": [],
+    "enemies": []
+  },
+  {
+    "id": "1442eb09-5e32-495a-a93b-4d799db04d12",
+    "name": "Mirror Medics",
+    "img": "/img/characters/mirror-medics.png",
+    "gender": "Genderless ø",
+    "residence": "Chrome Car",
+    "occupation": "Medical Assistance",
+    "first_appearance": "\"The Chrome Car\"",
+    "friends": [],
+    "enemies": []
+  },
+  {
+    "id": "052d731e-02a0-4aac-a801-f3bc0b6d9f20",
+    "name": "Mirror One",
+    "img": "/img/characters/mirror-one.png",
+    "gender": "Genderless ø",
+    "status": "Alive",
+    "residence": "Chrome Car",
+    "occupation": "One-One's Reflection",
+    "first_appearance": "\"The Chrome Car\"",
+    "friends": [],
+    "enemies": []
+  },
+  {
+    "id": "afc2591d-108a-4aff-afd0-ed30a4ccfa15",
+    "name": "Morgan",
+    "img": "/img/characters/morgan.png",
+    "status": "Alive",
+    "friends": [
+      "Jeremy Bradford",
+      "Kez"
+    ],
+    "enemies": [
+      "Kez"
+    ],
+    "first_appearance": "\"The Old West Car\" (picture only)\"The Mega Maze Car\"",
+    "latest_appearance": "\"The Train to Nowhere\""
+  },
+  {
+    "id": "364a4f39-23d7-410a-bac4-275aaefe60d5",
+    "name": "Mrs. Graham",
+    "img": "/img/characters/mrs.-graham.png",
+    "sex": "Female",
+    "age": "Late 40s - Early 60s",
+    "species": "Human",
+    "hair": "Brown",
+    "friends": [],
+    "enemies": []
+  },
+  {
+    "id": "20657d47-6b76-4729-82dd-dd93a12ec60c",
+    "name": "Musical Denizens",
+    "img": "/img/characters/musical-denizens.png",
+    "location": "Musical Car",
+    "known_members": "Comedy Mask (Keith Ferguson)Tragedy Mask (Kyle McCarley)4 Glove DenizensPlaybill (Kyle McCarley)Spotlight (Kyle McCarley)Stage Light DenizensHand FanOpera GlassesScript",
+    "allies": "Jesse Cosay",
+    "enemies": [],
+    "friends": []
+  },
+  {
+    "id": "e2408e2c-da5c-47ec-b890-b8dab3bfb8bb",
+    "name": "Nacho Girl",
+    "img": "/img/characters/nacho-girl.png",
+    "race": "Concession People",
+    "gender": "Female",
+    "outfit": "Nacho Container",
+    "friend(s)": "Concession Stand MonsterSoda GirlCandy GirlPopcorn Girl",
+    "first_appearance": "\"The Movie Theater Car\"",
+    "friends": [],
+    "enemies": []
+  },
+  {
+    "id": "1b5fe475-cf6e-4302-8e2c-ce36ec289640",
+    "name": "Nancy",
+    "img": "/img/characters/nancy.png",
+    "gender": "Female ♀",
+    "status": "Alive",
+    "residence": "Straight-Up Italy Car",
+    "occupation": "CookBusiness Owner",
+    "first_appearance": "\"The Crystal Car\"",
+    "latest_appearance": "\"The Lucky Cat Car\"",
+    "friends": [],
+    "enemies": []
+  },
+  {
+    "id": "c799e4c2-114b-4483-b3d3-a0937deb8569",
+    "name": "Nate Cosay",
+    "img": "/img/characters/nate-cosay.png",
+    "gender": "Male ♂",
+    "age": "8 to 12",
+    "hair_color": "Black",
+    "ethnicity": "Apache",
+    "status": "Alive",
+    "relatives": "Jesse Cosay (older brother)An unnamed fatherAn unnamed mother",
+    "friends": [
+      "Lake"
+    ],
+    "first_appearance": "\"The Toad Car\"",
+    "latest_appearance": "\"The Number Car\"",
+    "enemies": []
+  },
+  {
+    "id": "7b4734ce-e3af-4e3b-8a8c-3e72539c9246",
+    "name": "Nigel",
+    "img": "/img/characters/nigel.png",
+    "species": "Astro Queue Denizens",
+    "gender": "Male ♂",
+    "status": "Alive",
+    "residence": "Astro Queue Car",
+    "relatives": "14 unidentified children",
+    "friends": [
+      "Ryan Akagi",
+      "Min-Gi Park",
+      "Kez",
+      "Parka Denizens",
+      "Pig Baby",
+      "Cow Creamer",
+      "Judge Morpho"
+    ],
+    "enemies": [],
+    "first_appearance": "\"The Astro Queue Car\""
+  },
+  {
+    "id": "6c4f3dc5-147b-40a2-93e5-78ead8dc721d",
+    "name": "Octopus People",
+    "img": "/img/characters/octopus-people.png",
+    "eye_color": "Variant",
+    "complexion": "Variant",
+    "location": "Debutante Ball Car",
+    "allies": "Chandelier",
+    "first_appearance": "The Debutante Ball Car",
+    "friends": [],
+    "enemies": []
+  },
+  {
+    "id": "d67fab55-fb09-48b3-9762-ff9431d20c68",
+    "name": "One-One",
+    "img": "/img/characters/one-one.png",
+    "titles": "Ball (The Cat)The False Conductor (The Apex)Little Peanut (Amelia Hughes)",
+    "aliases": "Glad-OneSad-OneOne",
+    "species": "Robot",
+    "status": "Alive",
+    "residence": "Infinity Train",
+    "relatives": "Infinity Train (\"mother\")",
+    "friends": [
+      "Tulip Olsen",
+      "Atticus",
+      "Randall",
+      "Greige",
+      "Nancy",
+      "Khaki Bottoms",
+      "Lake",
+      "Jesse Cosay",
+      "Alan Dracula",
+      "Steward",
+      "Porters"
+    ],
+    "enemies": [
+      "Ghoms",
+      "Special Agent Mace",
+      "Agent Sieve"
+    ],
+    "first_appearance": "Pilot\"The Grid Car\" (series)",
+    "latest_appearance": "\"The Twin Tapes\""
+  },
+  {
+    "id": "ce694606-1723-4a33-b2d3-bbfe20739283",
+    "name": "Origami Birds",
+    "img": "/img/characters/origami-birds.png",
+    "complexion": "Paper",
+    "residence": "Origami Car",
+    "friends": [],
+    "enemies": [],
+    "first_appearance": "\"The Origami Car\""
+  },
+  {
+    "id": "558c0a18-6be9-4d6c-bbcd-94103d9471ff",
+    "name": "Paco",
+    "img": "/img/characters/paco.png",
+    "species": "Chicken",
+    "gender": "Male ♂",
+    "status": "Alive",
+    "friends": [
+      "Brando",
+      "Spiceman",
+      "Beehive",
+      "Driveway",
+      "Kez",
+      "Ryan Akagi",
+      "Min-Gi Park"
+    ],
+    "first_appearance": "The Party Car",
+    "enemies": []
+  },
+  {
+    "id": "b994c45e-76d7-461d-bc28-bd5c5c6dcf00",
+    "name": "Parka Denizens",
+    "img": "/img/characters/parka-denizens.png",
+    "status": "Alive",
+    "residence": "Iceberg Car",
+    "friends": [
+      "Ryan Akagi",
+      "Min-Gi Park",
+      "Kez",
+      "Judge Morpho",
+      "Pig Baby",
+      "Cow Creamer",
+      "Nigel"
+    ],
+    "enemies": [],
+    "first_appearance": "\"The Iceberg Car\"",
+    "latest_appearance": "\"The Train to Nowhere\""
+  },
+  {
+    "id": "47a0b0f5-a5ec-4d50-a3ae-274b6393e37a",
+    "name": "",
+    "img": "/img/characters/.png",
+    "friends": [],
+    "enemies": []
+  },
+  {
+    "id": "1bb47cc8-3467-4c26-8ed8-4edf906eb3e1",
+    "name": "Pencil People",
+    "img": "/img/characters/pencil-people.png",
+    "complexion": "Pencil Body",
+    "location": "Pencil Bank Car",
+    "first_appearance": "\"The Chrome Car\"",
+    "friends": [],
+    "enemies": []
+  },
+  {
+    "id": "b9ce9480-e9af-4026-8a87-18b9b260ddea",
+    "name": "Perry",
+    "img": "/img/characters/perry.png",
+    "species": "Parasite",
+    "gender": "Male ♂",
+    "complexion": "Green",
+    "status": "Alive",
+    "friends": [
+      "Lake",
+      "Jesse Cosay",
+      "Alan Dracula"
+    ],
+    "likes": "Controlling Alan Dracula's body",
+    "first_appearance": "\"The Parasite Car\"",
+    "latest_appearance": "\"The Parasite Car\"",
+    "enemies": []
+  },
+  {
+    "id": "7843f963-2b4b-4730-879c-a5dca348e196",
+    "name": "Pig Baby",
+    "img": "/img/characters/pig-baby.png",
+    "gender": "Male ♂",
+    "status": "Alive",
+    "friends": [
+      "Cow Creamer",
+      "Ryan Akagi",
+      "Min-Gi Park",
+      "Kez",
+      "Parka Denizens",
+      "Judge Morpho",
+      "Nigel"
+    ],
+    "enemies": [],
+    "likes": "Food",
+    "first_appearance": "\"The Pig Baby Car\"",
+    "latest_appearance": "\"The Train to Nowhere\""
+  },
+  {
+    "id": "e2f886eb-1a54-480a-bb2d-f7f1c8780fbc",
+    "name": "Popcorn Girl",
+    "img": "/img/characters/popcorn-girl.png",
+    "race": "Concession People",
+    "gender": "Female",
+    "outfit": "Popcorn Bag",
+    "friend(s)": "Concession Stand MonsterSoda GirlCandy GirlNacho Girl",
+    "first_appearance": "\"The Movie Theater Car\"",
+    "friends": [],
+    "enemies": []
+  },
+  {
+    "id": "665f2464-9674-4a03-9f00-cdf020c81bba",
+    "name": "Porters",
+    "img": "/img/characters/porters.png",
+    "sex": "Genderless",
+    "species": "Robot",
+    "friends": [],
+    "enemies": []
+  },
+  {
+    "id": "45de55f9-6c60-42ec-9ce1-bcfd947cc1a9",
+    "name": "Rabbit Dwarfs",
+    "img": "/img/characters/rabbit-dwarfs.png",
+    "hair_color": "Grey",
+    "traits": "Fighters",
+    "location": "Metal Workshop Car",
+    "enemies": [],
+    "first_appearance": "\"The Black Market Car\"",
+    "friends": []
+  },
+  {
+    "id": "2414b72b-9295-421b-a789-9babfa55af26",
+    "name": "Randall",
+    "img": "/img/characters/randall.png",
+    "aliases": "Randall Slip-in-the-Cracks Randall",
+    "species": "Randall; Water Denizen",
+    "gender": "Male ♂",
+    "status": "Alive",
+    "residence": "Beach Car (native)Chat Chalet Car (currently; imported)Ball Pit Car (formerly; display)Lucky Cat Car (formerly; migrant worker)",
+    "occupation": "Entrepreneur",
+    "likes": "Teamwork",
+    "first_appearance": "\"The Beach Car\"",
+    "latest_appearance": "\"Le Chat Chalet Car\"",
+    "friends": [],
+    "enemies": []
+  },
+  {
+    "id": "696f6fe2-d33c-4919-969b-6c9464345269",
+    "name": "Roy",
+    "img": "/img/characters/roy.png",
+    "species": "Denizen (Clock)",
+    "gender": "Male ♂",
+    "complexion": "Various Colors",
+    "status": "Alive",
+    "residence": "Color Clock Car",
+    "first_appearance": "\"The Color Clock Car\"",
+    "friends": [],
+    "enemies": []
+  },
+  {
+    "id": "20b45ac0-8445-4abc-9772-6169f79746aa",
+    "name": "Ryan Akagi",
+    "img": "/img/characters/ryan-akagi.png",
+    "gender": "Male ♂",
+    "age": "18",
+    "hair_color": "Dark Brown",
+    "status": "Alive",
+    "residence": "Powell Lake, British Columbia, Canada",
+    "relatives": "Mr. Akagi (father)Mrs. Akagi (mother)Four unnamed siblings:Two unnamed younger brothersTwo unnamed older sisters",
+    "friends": [
+      "Min-Gi Park",
+      "Kez",
+      "Samantha",
+      "Paco",
+      "Brando",
+      "Spiceman",
+      "Beehive",
+      "Driveway",
+      "Parka Denizens",
+      "Pig Baby",
+      "Cow Creamer",
+      "Nigel"
+    ],
+    "enemies": [
+      "Judge Morpho",
+      "Beetle Bailiff",
+      "Grasshopper",
+      "Docent"
+    ],
+    "occupation": "Musician",
+    "first_appearance": "Book Four - Duet"
+  },
+  {
+    "id": "3987c054-bdda-4aa6-95af-a1a26e708aed",
+    "name": "Ryan's Ex-Girlfriends",
+    "img": "/img/characters/ryan's-ex-girlfriends.png",
+    "aliases": "Disco GirlfriendPunk GirlfriendEarthy Girlfriend",
+    "gender": "Female ♀",
+    "friends": [
+      "Ryan Akagi"
+    ],
+    "first_appearance": "The Twin Tapes",
+    "enemies": []
+  },
+  {
+    "id": "73aa84c8-893a-4758-9d00-2d56ec15cd98",
+    "name": "Ryan's Father",
+    "img": "/img/characters/ryan's-father.png",
+    "gender": "Male ♂",
+    "status": "Alive",
+    "residence": "Powell Lake, British Columbia, Canada",
+    "relatives": "Mrs. Akagi (wife)Ryan Akagi (son)Four unnamed children:Ryan's older sister 1Ryan's older sister 2Ryan's younger brother 1Ryan's younger brother 2",
+    "first_appearance": "\"The Twin Tapes\"",
+    "latest_appearance": "\"The Twin Tapes\"",
+    "friends": [],
+    "enemies": []
+  },
+  {
+    "id": "2906262a-d417-47dc-b307-5e551450debf",
+    "name": "Ryan's Mother",
+    "img": "/img/characters/ryan's-mother.png",
+    "gender": "Female ♀",
+    "status": "Alive",
+    "residence": "Powell Lake, British Columbia, Canada",
+    "relatives": "Mr. Akagi (husband)Ryan Akagi (son)Four unnamed children:Ryan's older sister 1Ryan's older sister 2Ryan's younger brother 1Ryan's younger brother 2",
+    "first_appearance": "\"The Twin Tapes\"",
+    "friends": [],
+    "enemies": []
+  },
+  {
+    "id": "8f3b533c-3877-415c-ae38-262b1d15da5a",
+    "name": "Ryan's Siblings",
+    "img": "/img/characters/ryan's-siblings.png",
+    "aliases": "Ryan's Sister (Naia Yoshida)Ryan's Other SisterRyan's Brother #1 (Izaac Wang)Ryan's Brother #2 (Nick Kishiyama)",
+    "ethnicity": "Japanese",
+    "residence": "Powell River, British Columbia, Canada",
+    "relatives": "Ryan AkagiRyan's FatherRyan's Mother",
+    "friends": [],
+    "enemies": []
+  },
+  {
+    "id": "f5e7e96b-633d-42f0-8936-f3fb7e6b5937",
+    "name": "Sashay",
+    "img": "/img/characters/sashay.png",
+    "gender": "Female ♀",
+    "hair_color": "Purple",
+    "complexion": "Indigo",
+    "status": "Alive",
+    "residence": "Runway Car",
+    "friends": [
+      "Jesse",
+      "Lake",
+      "Alan Dracula"
+    ],
+    "occupation": "Fashion show director",
+    "likes": "Fashion",
+    "first_appearance": "\"The Parasite Car\"",
+    "latest_appearance": "\"The Parasite Car\"",
+    "enemies": []
+  },
+  {
+    "id": "ba4819ef-cc79-4a7b-8bac-e0ef91577364",
+    "name": "Sea serpent",
+    "img": "/img/characters/sea-serpent.png",
+    "species": "Sea serpent",
+    "gender": "Genderless ø",
+    "eye_color": "Black with yellow sclera",
+    "complexion": "Red scales",
+    "residence": "Map Car",
+    "enemies": [
+      "Marcel"
+    ],
+    "first_appearance": "\"The Map Car\"",
+    "friends": []
+  },
+  {
+    "id": "6ae2ef95-8d5d-4002-9f96-a1c5d60f24cd",
+    "name": "Agent Sieve",
+    "img": "/img/characters/agent-sieve.png",
+    "gender": "Male ♂",
+    "complexion": "Metallic with \"skins\"",
+    "status": "Deceased",
+    "residence": "Chrome Car",
+    "friends": [
+      "Special Agent Mace"
+    ],
+    "enemies": [
+      "Lake",
+      "Tulip Olsen",
+      "One-One",
+      "Atticus",
+      "Jesse Cosay",
+      "Alan Dracula"
+    ],
+    "occupation": "Reflection Police",
+    "first_appearance": "\"The Chrome Car\"",
+    "latest_appearance": "\"The Number Car\" (death)"
+  },
+  {
+    "id": "967435c6-2d00-4446-a802-922adb39e9c2",
+    "name": "Simon Laurent",
+    "img": "/img/characters/simon-laurent.png",
+    "aliases": "Socks and SandalsChef's hatPonytail (Grace)Short Pants (Amelia)",
+    "species": "Human",
+    "gender": "Male ♂",
+    "age": "18[1]",
+    "hair_color": "Blonde",
+    "complexion": "Fair",
+    "status": "Deceased",
+    "residence": "Mall Car (ultimately; original residence unknown)",
+    "relatives": "An unnamed motherThe Cat (former caretaker)",
+    "friends": [
+      "The Apex",
+      "Samantha",
+      "Jesse Cosay",
+      "Lucy"
+    ],
+    "enemies": [
+      "Lake",
+      "Alan Dracula",
+      "One-One",
+      "Tuba",
+      "Amelia Hughes",
+      "Hazel"
+    ],
+    "occupation": "Second-in-command, Final Leader of The Apex (formerly)",
+    "likes": "Getting his number upLiving on the trainRebellious behaviorMaking miniature figurinesWriting fantasy novels",
+    "dislikes": "\"Nulls\"Being called a childGohmsBeing reminded of his past with SamanthaBeing lied to",
+    "first_appearance": "\"The Engine\" (cameo; image only)\"The Mall Car\" (physical debut)",
+    "latest_appearance": "\"The New Apex\" (death)"
+  },
+  {
+    "id": "ff7ea3e6-3b30-42e1-b639-8b84178eb1fd",
+    "name": "Slug People",
+    "img": "/img/characters/slug-people.png",
+    "traits": "Shady",
+    "location": "Black Market Car",
+    "first_appearance": "\"The Black Market Car\"",
+    "friends": [],
+    "enemies": []
+  },
+  {
+    "id": "dba56618-c44d-466a-9d6e-39c565d7e308",
+    "name": "Soda Girl",
+    "img": "/img/characters/soda-girl.png",
+    "race": "Concession People",
+    "gender": "Female",
+    "outfit": "Soda Cup",
+    "friend(s)": "Concession Stand MonsterPopcorn GirlCandy GirlNacho Girl",
+    "first_appearance": "\"The Movie Theater Car\"",
+    "friends": [],
+    "enemies": []
+  },
+  {
+    "id": "c2f146c3-fe71-455e-8eac-efed55c39a8a",
+    "name": "Spiceman",
+    "img": "/img/characters/spiceman.png",
+    "species": "Beehive-like denizen",
+    "gender": "Male ♂",
+    "complexion": "Golden, sticky",
+    "status": "Alive",
+    "friends": [
+      "Kez",
+      "Beehive",
+      "Paco",
+      "Brando",
+      "Driveway",
+      "Ryan Akagi",
+      "Min-Gi Park"
+    ],
+    "first_appearance": "The Party Car",
+    "latest_appearance": "The Party Car",
+    "enemies": []
+  },
+  {
+    "id": "69aba02a-72af-40ef-bcd5-c3cb2a303c8c",
+    "name": "Spotlight",
+    "img": "/img/characters/spotlight.png",
+    "species": "Stage Light denizen",
+    "gender": "Male ♂",
+    "residence": "Musical Car (formerly)Mall Car (currently)",
+    "friends": [
+      "Musical Car denizens"
+    ],
+    "enemies": [
+      "Grace Monroe",
+      "Simon Laurent",
+      "The Apex"
+    ],
+    "first_appearance": "\"The Musical Car\"",
+    "latest_appearance": "\"The New Apex\""
+  },
+  {
+    "id": "b62bfd70-c520-4a13-bedd-fa756d5b13df",
+    "name": "Steward",
+    "img": "/img/characters/steward.png",
+    "titles": "Steward",
+    "species": "Robot",
+    "gender": "Genderless ø",
+    "eye_color": "Blue flames",
+    "status": "Active (repaired)",
+    "residence": "Infinity Train",
+    "friends": [
+      "Amelia",
+      "Cat",
+      "One-One"
+    ],
+    "enemies": [
+      "Tulip",
+      "Atticus"
+    ],
+    "first_appearance": "Pilot\"The Corgi Car\" (series)",
+    "latest_appearance": "\"The Castle Car\""
+  },
+  {
+    "id": "fdebf4a5-de53-40ba-86b2-1bff9b6a0466",
+    "name": "Terrance",
+    "img": "/img/characters/terrance.png",
+    "aliases": "Toad",
+    "species": "Toad",
+    "gender": "Male ♂",
+    "eye_color": "Yellow Orange",
+    "complexion": "Brown",
+    "status": "Alive",
+    "residence": "Infinity Train",
+    "friends": [
+      "Lake",
+      "Jesse Cosay",
+      "Alan Dracula"
+    ],
+    "occupation": "Game carnival employee in the Lucky Cat Car",
+    "likes": "Being kicked (only when he gives permission)His freedom outside of his car (currently)",
+    "dislikes": "Being kicked (only when he doesn't give permission)",
+    "first_appearance": "\"The Toad Car\"",
+    "latest_appearance": "\"The Lucky Cat Car\"",
+    "enemies": []
+  },
+  {
+    "id": "4114822d-59e4-46b6-a744-e6bf172b92cd",
+    "name": "The Apex",
+    "img": "/img/characters/the-apex.png",
+    "location": "Mall Car",
+    "leader": "Grace Monroe (formerly)Simon Laurent (second-in-command, short leadership; deceased)",
+    "known_members": "Hazel (formerly)LucyToddLindsayAlexLouise (mentioned)",
+    "allies": "Jesse Cosay (initially; later strained)The Conductor (formerly, indirectly; currently strained)",
+    "enemies": [],
+    "first_appearance": "\"The Wedding Cake Car\" (cameo)\"The Lucky Cat Car\" (official debut)",
+    "friends": []
+  },
+  {
+    "id": "33edf8c7-36b1-4855-aa61-2ade02ead28a",
+    "name": "Samantha",
+    "img": "/img/characters/samantha.png",
+    "aliases": "The Cat",
+    "species": "Cat",
+    "gender": "Female ♀",
+    "age": "150+",
+    "hair_color": "Beige Fur",
+    "eye_color": "Black (with Yellow sclera)",
+    "status": "Alive",
+    "relatives": "Simon Laurent (former ward)",
+    "friends": [
+      "Tulip Olsen",
+      "One-One",
+      "Simon Laurent",
+      "Randall",
+      "Frank",
+      "Jesse Cosay",
+      "Lake",
+      "Hazel",
+      "Tuba",
+      "Min-Gi Park",
+      "Ryan Akagi",
+      "Kez"
+    ],
+    "enemies": [
+      "Atticus",
+      "The Conductor",
+      "The Steward",
+      "The Apex",
+      "Grace Monroe"
+    ],
+    "likes": "Speaking FrenchA really good deal",
+    "dislikes": "LosingPeople touching her collection",
+    "first_appearance": "\"The Beach Car\"",
+    "latest_appearance": "\"The Old West Car\""
+  },
+  {
+    "id": "89c79195-160c-4243-8acc-d2cdb0a59a77",
+    "name": "Tiny Wizards",
+    "img": "/img/characters/tiny-wizards.png",
+    "eye_color": "Glowing Yellow",
+    "complexion": "Hairy",
+    "hair_color": "Purple",
+    "traits": "Shoot light arrows out of eyesUse beard as legsRed pointed hats",
+    "location": "Tiny Wizards Car",
+    "first_appearance": "\"The Beach Car\"",
+    "friends": [],
+    "enemies": []
+  },
+  {
+    "id": "a0bc71f1-a57d-4bfe-8b39-22280d8833b2",
+    "name": "Todd",
+    "img": "/img/characters/todd.png",
+    "species": "Human",
+    "gender": "Male ♂",
+    "age": "11",
+    "hair_color": "Brown",
+    "eye_color": "Blue",
+    "complexion": "Pale",
+    "birthday": "Unknown",
+    "status": "Alive",
+    "friends": [
+      "Grace Monroe",
+      "Simon Laurent",
+      "Mall Car"
+    ],
+    "enemies": [
+      "Lake",
+      "Ghoms"
+    ],
+    "occupation": "Member of the Apex (formerly)",
+    "first_appearance": "\"The Mall Car\"",
+    "latest_appearance": "\"The New Apex\""
+  },
+  {
+    "id": "0f8e9b3d-0108-4314-8f21-1610b49af4a5",
+    "name": "Tuba",
+    "img": "/img/characters/tuba.png",
+    "titles": "The Mighty Tuba",
+    "species": "Gorilla denizen",
+    "gender": "Female ♀",
+    "status": "Deceased",
+    "relatives": "Hazel (adoptive daughter)Bugle (daughter; deceased)",
+    "friends": [
+      "Grace Monroe",
+      "Simon Laurent"
+    ],
+    "enemies": [],
+    "first_appearance": "\"The Jungle Car\"",
+    "latest_appearance": "\"The Color Clock  Car\" (death)\"The New Apex\" (cameo; image only)"
+  },
+  {
+    "id": "791fcd0a-8e51-4670-b89d-43c8573b7bd3",
+    "name": "Tulip Olsen",
+    "img": "/img/characters/tulip-olsen.png",
+    "titles": "Tulip the Literate (Atticus)Miss Tulip (One-One)Tulip Prime (Agent Sieve)Kitten (The Cat)The Passenger (Amelia Hughes)",
+    "species": "Human",
+    "gender": "Female ♀",
+    "age": "12 (pilot)13 (series)",
+    "hair_color": "Orange",
+    "complexion": "Pale",
+    "status": "Alive",
+    "residence": "(Megan's Residence) North Branch, Minnesota, United States",
+    "relatives": "Andy Olsen (father)Megan Olsen (mother)Lake (former reflection)",
+    "friends": [
+      "Mikayla",
+      "One-One",
+      "Atticus",
+      "Randall",
+      "Aloysius",
+      "Lake",
+      "The Cat",
+      "Amelia Hughes",
+      "Nancy",
+      "Greige"
+    ],
+    "enemies": [
+      "Amelia Hughes",
+      "Steward",
+      "Ghoms",
+      "The Cat"
+    ],
+    "likes": "OnionsVideo GamesProgrammingHer friendsThe first three bites of pancakesGetting new textbooksRoad TripsWord Up by Cameo",
+    "dislikes": "Her parents arguingHer parents' divorce",
+    "first_appearance": "Pilot\"The Grid Car\" (series)",
+    "latest_appearance": "\"The Engine\""
+  },
+  {
+    "id": "af47b6cd-a12f-49a0-9187-64d89d5472a6",
+    "name": "Turtle People",
+    "img": "/img/characters/turtle-people.png",
+    "complexion": "Hard Green Shell",
+    "traits": "Don't Like Change",
+    "location": "Unfinished Car",
+    "leader": "Aloysius",
+    "allies": "TulipOne-OneAtticusCorginia",
+    "first_appearance": "\"The Unfinished Car\"",
+    "friends": [],
+    "enemies": []
+  },
+  {
+    "id": "dfca1dc2-d6f6-4589-9fb2-e7f982728429",
+    "name": "Ugly Irwin",
+    "img": "/img/characters/ugly-irwin.png",
+    "species": "Golden Retriever",
+    "gender": "Male ♂",
+    "hair_color": "Golden",
+    "status": "Alive",
+    "residence": "Corginia",
+    "first_appearance": "The Corgi Car",
+    "friends": [],
+    "enemies": []
+  }
 ]
