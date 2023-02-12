@@ -1,5 +1,5 @@
-export interface Character {
-  name: string;
+export type Character = {
+  img: string;
   Aliases?: string;
   Species?: string;
   Gender?: string;
@@ -34,6 +34,6 @@ export interface Character {
   "Voiced By"?: string;
   Sex?: string;
   "Known members"?: string;
-  Name?: string;
   Birthday?: string;
-}
+  name?: string;
+};
