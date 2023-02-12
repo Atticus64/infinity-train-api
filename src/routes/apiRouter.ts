@@ -10,7 +10,7 @@ const apiRouter = new Hono();
 export const prodUrl = "https://the-infinity-train-api.deno.dev/api";
 
 // use middlewares
-apiRouter.use("/api/*", async (c, next) => {
+apiRouter.use("/*", async (c, next) => {
   formatJson(c);
   await next();
 });
