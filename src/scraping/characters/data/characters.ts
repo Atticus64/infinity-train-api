@@ -1,4 +1,4 @@
-export const characters = [
+export const character_names = [
   "Alan Dracula",
   "Alex",
   "Aloysius",

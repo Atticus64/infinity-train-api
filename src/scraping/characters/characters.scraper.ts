@@ -1,5 +1,5 @@
 import * as cheerio from "https://esm.sh/cheerio@1.0.0-rc.12";
-import { characters } from "./data/characters.ts";
+import { character_names as characters } from "./data/characters.ts";
 
 async function scrapeCharacters() {
   const array = [];
