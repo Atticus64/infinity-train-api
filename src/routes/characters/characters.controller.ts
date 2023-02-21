@@ -8,11 +8,20 @@ import {
 import { Character } from "./entities/character.entity.ts";
 import { Environment } from "https://deno.land/x/hono@v2.7.7/types.ts";
 
-const characters: Character[] = charactersJson;
+const characters = charactersJson as Character[];
 
 export const get_characters = (c: Context) => {
   try {
-    return c.json(charactersJson);
+    const { search } = c.req.query();
+    if (!search) return c.json(characters);
+
+    console.log({
+      search,
+    });
+    const filteredCharacters = characters.filter((character) => {
+      return character.name.toLowerCase().includes(search.toLowerCase());
+    });
+    return c.json(filteredCharacters);
   } catch (error) {
     return c.json({
       msg: "Error",
