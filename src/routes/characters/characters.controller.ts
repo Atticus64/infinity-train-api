@@ -1,4 +1,4 @@
-import { Context } from "hono";
+import { Context } from "hono/mod.ts";
 import { z } from "zod";
 import charactersJson from "$/data/characters.json" assert { type: "json" };
 import {

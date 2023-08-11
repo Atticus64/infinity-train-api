@@ -1,4 +1,4 @@
-import { Context } from "hono";
+import { Context } from "hono/mod.ts";
 
 export const formatJson = (c: Context) => {
   try {

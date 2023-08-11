@@ -1,4 +1,4 @@
-import { Hono } from "hono";
+import { Hono } from "hono/mod.ts";
 import easterData from "../../data/eastereggs.json" assert { type: "json" };
 
 const easterRouter = new Hono();

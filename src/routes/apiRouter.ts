@@ -1,4 +1,4 @@
-import { Context, Hono } from "hono";
+import { Context, Hono } from "hono/mod.ts";
 import { Endpoints } from "$/common/interfaces/url.ts";
 import charactersRouter from "./characters/index.ts";
 import easterRouter from "./eastereggs/index.ts";

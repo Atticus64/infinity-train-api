@@ -1,4 +1,4 @@
-import { Hono } from "hono";
+import { Hono } from "hono/mod.ts";
 import { get_character, get_characters } from "./characters.controller.ts";
 
 const charactersRouter = new Hono();

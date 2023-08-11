@@ -1,18 +1,16 @@
-import { Hono } from "hono";
-import { serve } from "std/http/server.ts";
-import { cors, logger, prettyJSON, serveStatic } from "hono_middleware";
+import { Hono } from "hono/mod.ts";
+import { cors, logger, serveStatic, prettyJSON } from "hono/middleware.ts";
 import apiRouter from "./routes/apiRouter.ts";
+
 
 const app = new Hono();
 
 // middlewares
-app.use(cors({
-  origin: "*",
-}));
+app.use(cors());
 
-app.use("*", prettyJSON());
+app.use(prettyJSON());
 
-app.use("*", logger());
+app.use(logger());
 
 // import routes
 app.route("/api", apiRouter);
@@ -37,6 +35,6 @@ app.notFound((c) => {
 });
 
 // start server
-if (import.meta.main) await serve(app.fetch);
+if (import.meta.main) Deno.serve(app.fetch);
 
 export default app;
