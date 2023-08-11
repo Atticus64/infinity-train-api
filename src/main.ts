@@ -8,7 +8,7 @@ const app = new Hono();
 // middlewares
 app.use(cors());
 
-app.use(prettyJSON());
+app.use('*', prettyJSON())
 
 app.use(logger());
 
